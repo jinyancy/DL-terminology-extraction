@@ -1,0 +1,7043 @@
+keyword,doc_id,Frecuencia
+activewatch,252,2
+admin,252,1
+alerts,252,1
+auditable records,252,1
+availability,252,2
+clustering,252,1
+custom software,252,1
+discover,252,1
+downtime,252,1
+email,252,1
+external monitoring,252,1
+firewall,252,1
+freshwater software,252,2
+freshwater software's siteseer,252,1
+internet connection,252,1
+load balancing,252,1
+measuring,252,1
+mercury interactive,252,2
+nines,252,2
+pager,252,1
+performance monitoring,252,1
+periodic reports,252,1
+priced services,252,1
+raid,252,1
+remote hosts,252,1
+remote locations,252,1
+siteseer,252,2
+track,252,1
+uptime,252,3
+web site,252,1
+additive composite,2024,1
+additive images,2024,1
+background shifts,2024,1
+binocular image,2024,2
+binocular parallax,2024,1
+component,2024,2
+constituent phasors,2024,1
+foreground,2024,2
+fourier component,2024,1
+fourier transform,2024,2
+inverse fourier transform,2024,1
+magnitudes,2024,1
+occluding images,2024,1
+occluding objects,2024,1
+resultant,2024,1
+segmentation,2024,3
+short baseline binocular image pairs,2024,1
+spatial shift,2024,1
+translucent,2024,2
+translucent objects,2024,1
+adjacency matrix,2119,1
+heterogeneous,2119,2
+heterogeneous territory,2119,2
+optimal solution,2119,1
+stepwise optimization algorithm,2119,1
+transport nets,2119,1
+transport routes,2119,1
+av software,1987,2
+baddies who,1987,1
+deploys,1987,1
+detects,1987,1
+filter data packets,1987,1
+firewall,1987,1
+hackers,1987,1
+internet resources,1987,1
+intrusion attempts,1987,1
+mcafee,1987,1
+rule,1987,1
+scenes,1987,1
+software,1987,4
+top notch programmers,1987,1
+trojan,1987,2
+trojan horses,1987,2
+virus,1987,5
+viruses,1987,2
+virusscan,1987,1
+anchor target,2016,2
+automatic camera calibration,2016,1
+automatic method,2016,1
+calibration process,2016,1
+camera calibration,2016,3
+camera parameters,2016,1
+computer vision inspection,2016,1
+fully,2016,3
+fully automatic algorithm,2016,1
+interactive roi specification,2016,1
+intrinsic parameters,2016,1
+radon transform,2016,1
+region of interest,2016,2
+roi location algorithm,2016,1
+rotation angle,2016,1
+time/space consumption problem,2016,1
+zoom lens,2016,1
+2d vhf images,2007,1
+3d hexahedral finite element mesh,2007,1
+3d polygonal representation,2007,1
+biological soft tissues,2007,1
+biomechanical research,2007,1
+combined viscoelastic,2007,1
+data set,2007,1
+finite element model,2007,3
+human kidney,2007,1
+hyperelastic material model,2007,1
+image segmentation,2007,1
+kidney for,2007,2
+medicine visible human female,2007,1
+meshing software,2007,1
+national library,2007,1
+organ reconstruction software package,2007,1
+polygonal surfaces,2007,1
+trauma research,2007,2
+breakdowns,316,1
+convolution model,316,1
+discrete scores,316,1
+dual,316,2
+duality revisited,316,1
+egghe,316,1
+fractional frequency distributions,316,4
+fractional frequency distributions based,316,1
+fractional frequency distributions of,316,1
+laws,316,2
+lotka,316,3
+reworked,316,1
+combining,29,1
+computational intelligence,29,1
+conventional neural networks,29,1
+dynamic topology,29,1
+fnn,29,3
+fnns,29,2
+fpnn,29,6
+fpnns,29,2
+fuzzy modeling,29,2
+fuzzy models,29,1
+fuzzy neural networks,29,1
+fuzzy polynomial neural networks,29,2
+fuzzy sets,29,1
+generalization capabilities,29,1
+genetic algorithms,29,1
+hybrid architectures,29,1
+hybrid modeling architecture,29,1
+network,29,8
+networks exhibit high accuracy,29,1
+neural networks,29,6
+pnn,29,10
+pnns,29,4
+polynomial neural networks,29,3
+required approximation error,29,1
+additional restrictions,330,4
+authentication,330,2
+computer security,330,1
+computer systems,330,1
+crackability,330,1
+increases security,330,1
+minimum character length,330,1
+notoriously weak method,330,1
+password,330,10
+password checking,330,1
+password restrictions,330,2
+proactive,330,3
+proactive password restrictions,330,2
+resistant,330,1
+restrictions,330,9
+security,330,3
+user,330,3
+users,330,2
+accountability,371,1
+accurate,371,1
+atm,371,1
+automatic teller machine,371,1
+ballot box,371,1
+balloting,371,1
+electronic voting systems,371,1
+greater opportunity,371,1
+internet,371,1
+kiosk,371,1
+lever machines,371,1
+polls,371,1
+pose,371,1
+reliability,371,1
+technology available,371,1
+update,371,1
+voting online,371,1
+voting systems,371,2
+widespread,371,1
+asymmetry,248,1
+behaviour,248,3
+consequence,248,1
+distributed system,248,1
+dynamic changes,248,1
+knowledge,248,2
+n processors,248,1
+negligible loss,248,1
+nonreactive behaviour,248,1
+proof technique,248,1
+protocol stabilizing,248,1
+quiescence time,248,2
+synchronous network,248,1
+topology,248,1
+unique identifiers,248,1
+breach,2165,1
+data protection,2165,2
+distress caused,2165,1
+firm field,2165,1
+legal implications,2165,1
+mirror group newspapers,2165,1
+naomi,2165,2
+naomi campbell,2165,2
+online publishers should,2165,1
+sued,2165,1
+waterhouse,2165,1
+bureaucratic structure,2182,1
+catalyst,2182,1
+characterizes,2182,1
+environmental,2182,1
+face unstable environments,2182,1
+historical linkage,2182,1
+information processing perspective,2182,1
+information technology,2182,2
+organization,2182,6
+organization design,2182,1
+organizational design,2182,1
+organizational structures,2182,2
+shadow structure,2182,2
+stability,2182,2
+support mechanism,2182,1
+unstable environment,2182,2
+bid/request,1944,1
+certificate authorization,1944,1
+electronic devices,1944,1
+electronic government procurement system,1944,2
+electronic government procurement system functions,1944,1
+electronic tendering,1944,1
+government procurement,1944,5
+government procurement efficient,1944,1
+information infrastructures,1944,1
+internet,1944,1
+lesson learned,1944,1
+nondiscriminating,1944,1
+online bidding,1944,1
+online payment,1944,1
+reengineers internal procurement processes,1944,1
+render,1944,1
+taiwan,1944,2
+taiwan government procurement law,1944,1
+tgpl,1944,1
+vendor registration,1944,1
+combines,214,1
+computer industry,214,1
+confusion,214,1
+parallel computing architectures,214,1
+product innovation,214,2
+strategic analysis,214,1
+technological,214,1
+technology strategy,214,1
+usa,214,1
+affine invariants,1973,2
+computing complexity,1973,1
+convex polygons,1973,1
+correspondence,1973,1
+discrimination power,1973,1
+image registration,1973,1
+independent,1973,1
+invariants,1973,3
+object recognition,1973,1
+proposed,1973,1
+addition,2021,2
+carry,2021,2
+incoherent correlator,2021,2
+incoherent correlator based,2021,2
+intermediate carry,2021,1
+minterms needs,2021,1
+modified,2021,2
+msd,2021,2
+msd addition techniques,2021,1
+operand length,2021,1
+operation,2021,1
+reference digits,2021,1
+simplifies,2021,1
+symbolic substitution,2021,1
+computer applications,1985,2
+deregulation,1985,1
+electric power industry,1985,1
+exponential rate,1985,1
+industry changes,1985,1
+networked information systems,1985,1
+power,1985,4
+technology changes,1985,1
+trends,1985,1
+asexual,1957,1
+biological ageing,1957,1
+cellular automata model,1957,2
+danuta,1957,1
+lattice,1957,2
+movable,1957,1
+penna,1957,3
+penna model,1957,2
+planar lattice,1957,1
+predation,1957,2
+predation based,1957,1
+restraining effect,1957,1
+restraining factor,1957,1
+sheep,1957,2
+verhulst factor,1957,2
+dynamic game problems,2140,1
+static,2140,1
+cad/cae software aids converter design,411,1
+cad/cae tools,411,1
+dc/dc power conversion,411,1
+electronic,411,1
+flyback converter example,411,1
+magnetic components,411,1
+power supply engineer,411,1
+prototyping costs,411,1
+providing,411,1
+decision,282,2
+ecology,282,1
+entire internet,282,1
+implementing,282,2
+internet,282,6
+internet inquiry project,282,3
+internet inquiry projects,282,2
+online support,282,3
+study,282,1
+web sites,282,3
+classroom,2050,5
+classroom edition,2050,1
+classroom using,2050,1
+its classroom,2050,1
+microsoft powerpoint,2050,1
+sample,2050,1
+electrical power,212,1
+eskom,212,1
+growing pressure,212,1
+key performers,212,1
+knowledge management,212,2
+power industry,212,2
+simlib,2048,4
+simulation package,2048,2
+hybrid,2011,6
+hybrid algorithm,2011,4
+hybrid approach,2011,1
+limitation,2011,1
+local treatment,2011,1
+phase,2011,3
+phase inconsistency,2011,1
+phase unwrapping algorithm,2011,1
+postprocessor,2011,1
+preprocessor,2011,1
+proposed,2011,3
+robustness,2011,1
+speed,2011,1
+stability,2011,1
+unwrapping algorithms,2011,1
+unwrapping problem,2011,1
+wrapped map,2011,1
+autotuner,40,2
+controller parameters,40,1
+genetic algorithm based,40,2
+genetic algorithm based design method,40,1
+performance assessment formulas,40,1
+performance assessment rules,40,1
+pid controller,40,5
+pid controller design method,40,1
+pid controller tuned,40,1
+pid controllers,40,1
+process dynamics,40,1
+rules,40,2
+simulation studies,40,1
+tuning,40,6
+tuning formula,40,2
+tuning method,40,4
+aggregate,26,1
+arbitrary generator,26,1
+determination of weights,26,1
+measure,26,1
+parametric functions,26,1
+ratio,26,1
+weighted means,26,3
+weights,26,3
+bayesian decision procedure requiring,2094,1
+distributions restricted,2094,1
+gauss' inequality,2094,1
+generalization,2094,1
+minimal probability content,2094,1
+parameter space,2094,1
+parameter subset,2094,1
+partial prior information,2094,1
+prior,2094,2
+statistical inference,2094,1
+degraded,349,2
+designated,349,2
+designated degraded qos,349,1
+difference priority classes,349,1
+priority areas,349,1
+priority clients,349,2
+qos,349,9
+qos adjustment,349,1
+qos areas,349,2
+qos degradation,349,1
+qos manager,349,1
+resource partitioning,349,2
+reward/penalty characteristics,349,1
+reward/penalty requirements,349,1
+service control scheme,349,1
+servicing,349,1
+simulation,349,1
+system,349,3
+system resources,349,1
+varying workload,349,1
+30th floors,293,1
+active noise control,293,1
+anc,293,2
+coherence,293,5
+effective,293,1
+empty rectangular rooms,293,1
+error signals,293,1
+experimental,293,3
+mode coupling theory,293,1
+noise reduction,293,1
+open window,293,2
+rectangular room,293,3
+room,293,5
+sound pressure,293,1
+traffic noise,293,3
+traffic noise prediction methods,293,1
+traffic noise transmission,293,1
+wave theory,293,1
+any speed,257,1
+memory management,257,1
+pointers,257,1
+prides,257,1
+programmers,257,1
+secure sandbox programming model,257,1
+sun,257,1
+unsafe,257,2
+chemical directory,270,1
+compounds,270,1
+diverse chemical libraries,270,1
+functional groups,270,2
+library,270,2
+mddr,270,2
+mdl drug data,270,1
+meqnums,270,3
+molecular equivalence indices,270,1
+molecular equivalence number,270,2
+molecular equivalence numbers,270,1
+molecular structures,270,1
+nonoverlapping,270,1
+random,270,2
+structural,270,3
+structural features,270,2
+topological shape,270,2
+topological shapes,270,1
+utility,270,1
+background clutter,1977,1
+contour detection,1977,1
+contour tracking,1977,1
+edge indicator function,1977,1
+edge map,1977,2
+inverted distance transform,1977,1
+minimization,1977,1
+object motion,1977,2
+object motion allows,1977,1
+spurious,1977,1
+topographical distance,1977,1
+tracking,1977,3
+video,1977,2
+watershed algorithm,1977,1
+watershed segmentation,1977,1
+advertising,2100,2
+advertising campaign,2100,2
+goods,2100,2
+linear constraints,2100,1
+mathematical,2100,1
+nonlinear programming problems,2100,1
+operations research problems,2100,1
+optimization,2100,1
+planning,2100,2
+services,2100,2
+changing patterns,240,1
+cornell university library,240,1
+creation,240,2
+digital libraries,240,1
+economic model,240,1
+euclid,240,2
+management,240,1
+mathematics,240,1
+partnerships,240,1
+publisher,240,1
+publishing,240,3
+publishing initiative,240,1
+research libraries,240,1
+role of,240,1
+scholarly communication,240,2
+university press,240,1
+bayes information criterion,391,2
+distant,391,1
+electroencephalogram,391,1
+electromagnetic source analysis,391,2
+empirical data,391,1
+hotelling,391,2
+magnetoencephalogram adequately,391,1
+model selection,391,2
+model selection procedures,391,1
+msp residual variance,391,1
+msps,391,4
+noise,391,2
+noise settings,391,1
+source amplitudes,391,2
+visual evoked,391,1
+wald test,391,2
+academic environment,2060,1
+acquisitions policies,2060,1
+decisions,2060,3
+department,2060,2
+development,2060,1
+small academic library,2060,2
+special collections,2060,2
+special collections department,2060,1
+abdelsalam,2189,1
+app,2189,2
+apps,2189,1
+computer science courses,2189,1
+helal's,2189,1
+killer,2189,2
+mobile computing,2189,3
+mobile computing design,2189,1
+motorola,2189,2
+smart,2189,1
+university,2189,1
+classmates,414,2
+communication link,414,1
+education,414,1
+electronic telecommunications,414,2
+enrolling,414,1
+fostering,414,2
+fostering interpersonal relationships,414,2
+instructor,414,3
+interpersonal relationships,414,2
+student attitudes,414,2
+optimal control,2126,4
+optimal control switching,2126,1
+smooth nonlinear control system,2126,1
+net code,408,1
+net obfuscation,408,1
+net platform,408,1
+considers,408,1
+functional obfuscator,408,1
+il/native code assemblies,408,1
+intellectual property,408,1
+managed,408,2
+managed extensions,408,1
+microsoft,408,1
+mixed,408,1
+obfuscation,408,4
+obfuscation options,408,1
+obfuscator provides,408,1
+protecting,408,1
+renaming,408,1
+reverse engineering,408,2
+software development,408,1
+cluster,2041,1
+computation of,2041,1
+computational,2041,1
+interface,2041,2
+multiprocessor systems,2041,2
+numerical solution,2041,1
+parallelization,2041,1
+processors,2041,1
+concerns,2130,1
+generalized control problems,2130,1
+linear inequalities,2130,1
+linear interval system,2130,2
+linear interval systems,2130,1
+minimal synchronizing sequence,2130,1
+real numbers,2130,1
+synchronizing experiments,2130,1
+without exact information,2130,1
+decoupled discrete time pole placement design method,290,1
+integrated gimbal structure,290,1
+mems applications,290,1
+prototype microactuator,290,1
+resonance mode,290,2
+resonance mode variations,290,1
+servo systems,290,1
+deceptively simple techniques,226,1
+klez worm,226,1
+known,226,1
+one,226,1
+online masquerade,226,1
+recent,226,1
+vulnerabilities,226,1
+airy stress function method,1950,1
+beam,1950,1
+blocking,1950,1
+cantilever,1950,5
+density distribution profile,1950,1
+density functionally gradient,1950,2
+density functionally gradient piezoelectric cantilever,1950,2
+general solution,1950,5
+given,1950,1
+induction functions,1950,1
+inverse method,1950,1
+piezoelectric cantilever,1950,4
+piezoelectric cantilever actuator,1950,1
+piezoelectric material,1950,1
+plane strain theory,1950,1
+polynomials,1950,1
+tip deflection,1950,1
+transversely isotropic bodies,1950,1
+available,311,1
+design process,311,2
+ia,311,4
+ia design,311,1
+inductive design process,311,1
+inductive partly,311,1
+inductive process,311,1
+information architecture,311,2
+internal theory,311,2
+lacks,311,1
+partly,311,2
+remains inductive,311,1
+representational framework,311,1
+supports emergent phenomena,311,1
+user attributes,311,1
+user experiences,311,1
+100,2019,1
+average error rate,2019,1
+chrominance,2019,1
+combined probability map,2019,1
+convex hull,2019,1
+detection,2019,2
+edge map,2019,1
+edge pixel,2019,2
+erroneous scene analysis,2019,1
+geometry domains,2019,1
+gradient density,2019,1
+high scss,2019,1
+inaccurate,2019,1
+input image,2019,1
+large vehicles,2019,1
+lighting conditions,2019,1
+lowest error rate,2019,1
+luminance,2019,1
+monocular color traffic image sequences,2019,2
+moving cast shadow,2019,3
+moving vehicles,2019,1
+roadside,2019,1
+robust segmentation,2019,1
+shadow confidence score,2019,1
+stationary background,2019,1
+vehicle images,2019,1
+vehicle region,2019,1
+vehicle segmentation,2019,1
+vehicle sizes,2019,1
+viewing angles,2019,1
+analytic machinery,2069,1
+authority structures,2069,1
+circular structures,2069,1
+collective choice procedures,2069,1
+firms requires,2069,1
+hierarchical organization,2069,1
+mild restrictions,2069,1
+mix hierarchy,2069,1
+nature of control,2069,1
+organization,2069,4
+organizational structures,2069,1
+superiors,2069,1
+ultimate controller,2069,1
+business models,236,1
+document servers,236,1
+elsevier science,236,1
+information,236,2
+kluwer academic,236,1
+licensing,236,2
+major publishers,236,1
+national agreements,236,1
+netherlands,236,2
+research publications,236,1
+scientific information,236,1
+university libraries,236,1
+web,236,1
+economics,1959,1
+markets,1959,1
+quantum game theory,1959,1
+quantum market games,1959,1
+binary relation,360,4
+binary relations,360,1
+corresponding,360,1
+interval order,360,1
+inversely proportional,360,1
+multiplicative,360,2
+multiplicative error function,360,1
+numerical function,360,2
+numerical representation,360,1
+semiorder,360,2
+cs atoms,1951,1
+gaussian states,1951,1
+mapping procedure,1951,1
+quadrature phase observables,1951,1
+quadrature phase operators,1951,1
+quantum memory,1951,2
+quantum state,1951,1
+recording quantum properties,1951,1
+road towards complete,1951,1
+sensitivity,1951,2
+squeezed states,1951,1
+affinity,198,1
+artificial neural network,198,1
+background,198,1
+computational capacity,198,1
+computational properties,198,1
+continuous curves,198,1
+critical,198,3
+critical capacity,198,2
+critical capacity alpha,198,1
+discrimination task,198,1
+distribution model,198,1
+linear separability,198,2
+numerical,198,1
+odorant,198,5
+odorant concentrations,198,1
+odorant discriminator,198,1
+odorants,198,1
+olfaction,198,1
+olfactory bulb,198,2
+outputs converge,198,1
+p/sub c/,198,2
+probabilistic receptor,198,1
+problem we,198,1
+processing elements,198,1
+quantitative analysis,198,1
+sensory neurons,198,1
+single processing linear threshold element,198,1
+correctness,249,1
+currently simplest,249,1
+elementary step,249,2
+expected length,249,1
+randomized,249,2
+randomized algorithm,249,1
+reset takes,249,1
+corporate crisis management,2149,1
+firewall log,2149,1
+logical steps,2149,1
+management,2149,4
+point problem,2149,1
+security crisis,2149,3
+security crisis management,2149,2
+security crisis management,2149,2
+security event,2149,3
+generator control systems,1981,1
+high effectiveness,1981,1
+improving,1981,1
+optimal linear control,1981,1
+power system,1981,1
+pss design enabling,1981,1
+stability,1981,1
+stabilizer design,1981,1
+synchronous generator,1981,2
+turbine,1981,2
+turbine controller,1981,1
+broadcasting technology,223,1
+broadcasts keep staff,223,1
+chief,223,1
+corporate intranets,223,1
+explains,223,1
+hawkins,223,1
+intranets,223,2
+media specialist,223,1
+twofourtv,223,1
+constructive class,2141,1
+control,2141,4
+demonstrated,2141,1
+desired matrix transfer functions,2141,1
+entire,2141,1
+interrelated,2141,1
+matrix equations defining,2141,1
+multivariable linear systems,2141,1
+nonzero initial conditions,2141,1
+plant state,2141,1
+posed problems,2141,1
+reduced observer,2141,3
+state vector,2141,1
+system embedding,2141,2
+system embedding technology,2141,1
+alienation,244,1
+cites,244,1
+economics,244,1
+electronic,244,3
+electronic publishing,244,1
+electronic scholarly communication environment,244,1
+important information policy,244,1
+libraries,244,2
+presents,244,1
+presses,244,1
+research libraries,244,1
+scholarly publishers,244,1
+university,244,2
+university press/research library relationship,244,1
+314,273,1
+90th percentile values,273,1
+bioavailability,273,1
+biological activity,273,1
+cmc,273,1
+data sets,273,2
+descriptor,273,7
+descriptors,273,5
+diversity analyses,273,1
+library design,273,1
+molecular descriptors,273,2
+molecular properties,273,1
+molecular topology,273,1
+nci,273,1
+outlier filtering,273,1
+properties across,273,1
+publicly,273,1
+scaling functions,273,1
+similarity,273,1
+topology descriptors,273,1
+topology spaces,273,1
+universal chemical,273,1
+accurate modeling,397,1
+asymptotic waveform evaluation,397,1
+awe,397,2
+bounded domain,397,1
+circuit simulator,397,1
+currents,397,1
+derivation,397,1
+differential quadrature methods,397,1
+discrete models,397,1
+dqm,397,8
+dqm approximation,397,1
+dqm requires,397,1
+frequency domain,397,1
+global sampling,397,1
+interconnects,397,1
+lossy nonuniform transmission lines,397,1
+lossy uniform,397,1
+moment generation,397,1
+moment matching,397,1
+multiport models whose port voltages,397,1
+nonuniform transmission lines,397,2
+numerical approximation technique,397,1
+numerical methods,397,1
+pade approximation,397,1
+partial differential equations,397,1
+rational approximation,397,1
+rational formulas,397,1
+rationalization,397,1
+solvable algebraic equations,397,1
+transcendental functions,397,1
+transmission lines,397,4
+unlike,397,1
+using,397,2
+weighted linear sum,397,1
+archival,264,7
+archival imagination,264,3
+archival management,264,1
+archival profession,264,1
+archival theory,264,1
+archivist,264,4
+archivists,264,2
+bearman,264,6
+berated,264,1
+criticized,264,1
+electronic records,264,1
+graduate archival education,264,1
+imagination,264,4
+inclusion,264,1
+record keeping,264,1
+revisited,264,1
+animal,2181,1
+automated advice,2181,1
+body mass index,2181,1
+fasting,2181,1
+gathers data,2181,1
+health assessment,2181,2
+health assessment sheet,2181,1
+health checkup data,2181,2
+health guidance support system,2181,1
+high risk group,2181,1
+intake,2181,2
+lifestyle adjustment based,2181,1
+lifestyle improvement,2181,3
+liver function tests,2181,1
+medical examination,2181,1
+objective,2181,1
+oral hygiene,2181,1
+questionnaire,2181,1
+regarding weight gain,2181,1
+sleep,2181,1
+smoking,2181,1
+triglycerides,2181,1
+uric,2181,1
+25 acetylcholinesterase hydrolysis,274,1
+chemistry synthesis,274,1
+enzymatic,274,1
+esters,274,1
+fragmental,274,2
+fragmental volume descriptors,274,1
+hydrophobicity descriptors,274,1
+local interactions,274,1
+mapping,274,1
+medicinal,274,1
+mtd,274,8
+mtd hypermolecule,274,1
+mtd method,274,2
+mtd models,274,1
+occupancy/nonoccupancy interpretation,274,1
+pls variant,274,1
+q/sup,274,1
+experimental,277,4
+linear extensions,277,3
+model,277,5
+noninvestigated compounds,277,1
+operationally simple method,277,1
+partial order based qsars,277,1
+partial ordering combined,277,1
+pot,277,2
+probability distribution curves,277,1
+relationship modeling,277,1
+structural and/or electronic descriptors,277,1
+tool,277,1
+archival,259,5
+archival descriptive data,259,1
+archival information systems,259,2
+bolts,259,1
+collective data,259,1
+data,259,5
+description practices,259,1
+descriptive standards,259,1
+implementing,259,1
+international standard archival,259,1
+legacy data,259,2
+mediated access tool,259,1
+online,259,1
+profession,259,1
+unmediated settings,259,1
+virtual collections,259,1
+austria,2178,1
+biotechnology,2178,1
+engineering developments,2178,1
+global problems,2178,1
+global solutions,2178,1
+health,2178,3
+health care,2178,1
+health informatics,2178,1
+human genetics,2178,1
+implantable pacemaker/defibrillator devices,2178,1
+information,2178,3
+information systems,2178,1
+innsbruck,2178,1
+intellectual property rights inherent,2178,1
+mathematical modeling,2178,1
+medical data privacy,2178,1
+medical informatics research,2178,1
+medicine,2178,3
+molecular biology,2178,1
+private universitat fur,2178,1
+radiant imaging methods,2178,1
+technik,2178,1
+technology,2178,4
+technology tyrol,2178,1
+tyrol,2178,2
+functionals,2026,3
+image restoration,2026,2
+iterative algorithm,2026,1
+its convergence,2026,1
+kurtosis,2026,1
+lmf,2026,3
+lmf functionals,2026,1
+noise distribution,2026,1
+of noise,2026,1
+partially restored image,2026,1
+regularization parameters,2026,1
+smoothing functional,2026,3
+smoothing functionals,2026,1
+unique minimizer exists,2026,1
+accounting,327,1
+assess,327,4
+computer after,327,1
+given,327,1
+human judgments,327,3
+latent semantic analysis,327,2
+lsa,327,5
+lsa indicates,327,1
+prior,327,2
+reader strategies,327,2
+reading strategies,327,1
+sert,327,6
+sert practice,327,1
+sert strategies,327,1
+students,327,5
+teaches,327,1
+verbal protocols,327,1
+whereas students,327,1
+world,327,3
+world knowledge,327,2
+anr headset,292,1
+anr systems,292,1
+broadband noise reduction,292,1
+consumer audio,292,1
+earshell headband,292,1
+earshell using,292,1
+earshell vibration,292,3
+earshell vibration control,292,2
+experimental data,292,1
+external noise,292,1
+high frequencies,292,1
+inertial mass,292,1
+laboratory headset showed,292,1
+noise reduction,292,2
+passive attenuation,292,1
+piezoelectric actuators provide,292,1
+robust feedback controller,292,1
+user,292,1
+velocity feedback control showed,292,1
+chat,2196,7
+contextual cues,2196,1
+contextual information,2196,2
+electronic communication,2196,3
+person's,2196,1
+potential semantic conflicts,2196,1
+potentially,2196,1
+reducing,2196,1
+semantic conflicts,2196,2
+slower response,2196,1
+somebody,2196,1
+urgent activity,2196,1
+alternative,2031,1
+bayes formula,2031,1
+bayesian formulation,2031,1
+criterion,2031,1
+exhaustive search method,2031,1
+image histogram,2031,1
+maximizing entropy,2031,1
+maximum entropy principle,2031,2
+optimal threshold determination,2031,2
+parabola concave,2031,1
+parabola convex,2031,1
+precision on,2031,1
+searching algorithm,2031,1
+speeding,2031,1
+convenience,2030,1
+data processing,2030,1
+detected hologram,2030,1
+digital holography,2030,2
+discrete fresnel integral,2030,1
+higher accuracy,2030,1
+hologram itself,2030,1
+laplacian,2030,1
+numerical reconstruction,2030,1
+reconstructed image,2030,2
+beachhead,206,1
+communal infrastructure,206,1
+ia journal,206,1
+information architecture,206,3
+local professional groups,206,1
+practicing information architects,206,1
+thousands,206,1
+vibrant,206,1
+abb,2158,1
+automation,2158,1
+automotive industry,2158,1
+competitive,2158,1
+manufacturing efficiency,2158,1
+press,2158,3
+press shops,2158,1
+shop,2158,4
+shops,2158,2
+software solutions,2158,1
+supply chain,2158,1
+world,2158,1
+gateway interface,324,1
+graduate students,324,1
+ip,324,4
+java,324,1
+netcloak,324,4
+netcloak uses,324,1
+participant's browser,324,1
+perl,324,1
+prior training,324,1
+probability estimation,324,1
+programming languages,324,1
+quality control,324,1
+random assignment,324,1
+web server,324,1
+applying color constancy,1994,1
+chromaticity,1994,2
+color,1994,7
+comprehensive set,1994,1
+computational color constancy algorithms,1994,2
+constancy algorithms,1994,2
+finlayson et,1994,2
+gray world methods,1994,1
+http,1994,2
+image chromaticity statistics,1994,1
+image data,1994,3
+implementations,1994,1
+input data statistics,1994,1
+leading computational color,1994,1
+neural net algorithm,1994,1
+online,1994,1
+performance,1994,4
+pixel intensity,1994,1
+preprocessing strategies,1994,1
+real images,1994,1
+retinex method,1994,1
+computer users,2107,1
+deindividuation,2107,2
+group cohesion,2107,1
+group identity,2107,2
+group polarization,2107,1
+group processes,2107,1
+identifiability,2107,2
+manipulated,2107,1
+perceptions,2107,1
+research,2107,2
+social identity perspective,2107,1
+social identity theory,2107,1
+social psychological processes,2107,1
+strength,2107,1
+took,2107,1
+underlying,2107,1
+uninhibited behavior cited,2107,1
+balance,1958,1
+bonds,1958,1
+integral formalism,1958,1
+martingale,1958,2
+natural martingale,1958,2
+path integral,1958,2
+pricing,1958,2
+truncated levy distributions,1958,2
+computer programs,2167,1
+consultation launched,2167,1
+directive,2167,3
+eu level,2167,1
+european commission,2167,1
+european national courts,2167,1
+inventions,2167,2
+national patent laws relating,2167,1
+protection,2167,1
+recognition,2167,1
+sensible european legislation,2167,1
+software,2167,2
+total lack,2167,1
+using,2167,1
+dust,2057,1
+edition,2057,1
+factors,2057,3
+fair market value,2057,1
+fot,2057,1
+information,2057,1
+patterson study,2057,1
+value,2057,2
+appropriate,333,1
+comparisons,333,1
+control groups,333,1
+experiment generators,333,3
+experimental psychology,333,1
+instructional,333,3
+internet,333,1
+laboratory science,333,1
+learning outcomes,333,1
+software,333,3
+software programs,333,1
+teacher,333,2
+teaching psychology,333,1
+correction,1932,1
+evenness,1932,1
+initial state,1932,1
+linear equations,1932,1
+mn locks,1932,1
+modulo,1932,1
+safe problem on,1932,1
+occasionally,370,1
+certain,370,2
+citizens,370,1
+commercial laws,370,1
+consumer interests,370,1
+enforcing,370,1
+home,370,1
+internet,370,3
+internet activity,370,1
+internet treaties,370,1
+lawsuits,370,1
+legal jurisdiction,370,1
+libel,370,1
+local jurisdictions,370,1
+national governments,370,1
+normal business activities,370,1
+online activities,370,1
+overseas,370,1
+protecting,370,2
+public order,370,1
+real laws,370,1
+service providers,370,1
+sites,370,2
+virtual borders,370,1
+where material,370,1
+boost converter,379,1
+controller based system,379,1
+duty ratio,379,1
+employs,379,1
+error signal,379,1
+experimental data,379,1
+feedforward loop,379,2
+feedforward maximum power,379,2
+feedforward maximum power point tracking,379,1
+fuzzy controller,379,2
+fuzzy feedforward peak power tracking effectiveness,379,1
+instantaneous array voltage,379,1
+interleaved boost,379,1
+interleaved dual boost,379,1
+mp point,379,2
+neural network,379,2
+proportional plus integral,379,1
+pv applications,379,1
+pv systems,379,1
+reference voltage,379,2
+simulation,379,1
+solar cell array,379,1
+tracking,379,4
+voltage corresponding,379,1
+accuracy,392,1
+arterial blood pressure fluctuations,392,1
+arterial pressure fluctuations,392,1
+blood flow wavelet coefficients,392,1
+complex dynamics,392,1
+disjoint sets,392,1
+flow recordings,392,1
+frequency intervals,392,1
+frequency ranges,392,2
+hypertensive,392,8
+hypertensive blood flow data,392,1
+hypertensive condition,392,1
+hypertensive rats,392,3
+hypertensive recordings,392,1
+kidney blood pressure/flow data,392,1
+kidney level,392,1
+mean,392,1
+multiresolution wavelet transform,392,1
+myogenic,392,4
+normotensive,392,7
+normotensive rats,392,1
+rats,392,5
+renal autoregulation,392,2
+renal autoregulatory mechanisms,392,1
+renal blood flow,392,2
+renyi entropy,392,3
+scale ranges corresponding,392,1
+separation,392,2
+spontaneous,392,3
+spontaneous oscillations obtained,392,1
+tgf frequency ranges,392,1
+tgf mechanisms,392,2
+tubuloglomerular feedback,392,1
+anonymous signers,355,1
+identity,355,4
+society oriented scheme,355,1
+verifier,355,1
+bezout matrix identities,2127,1
+class of solutions,2127,1
+constructive system embedding,2127,1
+descriptive examples,2127,1
+euclidean algorithm,2127,1
+generalizations,2127,1
+polynomial equations,2127,2
+solution depends,2127,1
+culture,2148,1
+firstly,2148,1
+information,2148,8
+information security policy,2148,5
+information security policy,2148,5
+information security standards,2148,2
+international,2148,2
+security controls,2148,1
+degradation test,319,1
+experimental cost,319,2
+fluorescent lamps,319,1
+highly reliable products,319,2
+identification rule,319,2
+inspection frequency,319,1
+maximum probability,319,1
+minimum probability,319,1
+optimum test plan,319,1
+product's degradation paths,319,1
+reliability,319,2
+resolution,319,1
+sample size,319,1
+satisfy,319,1
+screening experiment,319,1
+termination time,319,1
+variables,319,1
+wiener processes,319,1
+1400,283,1
+alien,283,7
+alien rescue,283,7
+business fields,283,1
+cognitive support,283,1
+cognitive tools,283,1
+design,283,3
+education,283,2
+educational research,283,1
+formative evaluation,283,1
+hypermedia product,283,1
+improvement of the program,283,1
+innovative,283,1
+integral,283,1
+middle school science,283,1
+middle schools,283,1
+national science standards,283,1
+pbl,283,3
+research,283,4
+research studies,283,1
+science,283,4
+sixth graders,283,2
+space science,283,1
+texas essential knowledge,283,1
+angular velocity data gathered,2199,1
+location recognition,2199,1
+measured acceleration,2199,1
+preselected locations,2199,1
+walking behaviors,2199,1
+wearable sensors,2199,2
+archival programs,262,2
+ead,262,6
+ead adoption,262,1
+ead programs,262,1
+encoded archival description,262,1
+funding,262,1
+gathering data related,262,1
+implementers,262,1
+institutional goals,262,1
+institutions,262,1
+pilot survey,262,1
+regular repository functions,262,1
+staffing,262,1
+survey conducted,262,1
+amplifiers,404,2
+cmos technology,404,1
+g/f sense amplifier,404,1
+index signal,404,1
+l1,404,3
+measured l1/l2,404,1
+memory cell,404,2
+swl,404,3
+vlsi system applications,404,1
+wlotc scheme,404,1
+accounting,1967,1
+andersen,1967,1
+financial,1967,1
+futures volatility,1967,1
+logarithmic standard deviations,1967,2
+market periodicities,1967,1
+modeling,1967,1
+periodicities,1967,2
+pricing,1967,1
+realized,1967,3
+realized volatility,1967,2
+reliable identification,1967,1
+risk management,1967,1
+singular spectrum analysis,1967,2
+ssa,1967,3
+ssa decomposes,1967,1
+total variance,1967,1
+transaction data,1967,1
+volatility series,1967,1
+customer,1972,2
+distribution,1972,3
+distribution channels,1972,1
+dynamic pricing,1972,3
+dynamic pricing model,1972,1
+flexible system,1972,1
+impact business models,1972,1
+industry leaders,1972,1
+information,1972,1
+internet,1972,3
+internet usage relied,1972,1
+lodging industry,1972,2
+lodging industry profit margins,1972,1
+market pricing,1972,1
+marketing,1972,1
+online auctions,1972,2
+online intermediaries,1972,1
+overnight accommodation,1972,1
+price setting,1972,1
+pricing,1972,7
+pricing models,1972,1
+pricing theory,1972,1
+producer,1972,1
+scripting,1972,1
+services move,1972,1
+specialty brokers,1972,1
+supply chain,1972,1
+trading model,1972,2
+traditionally,1972,1
+transaction,1972,2
+web sites,1972,1
+abstract geometrical model,2005,1
+bony structures,2005,1
+categorizes,2005,1
+computed tomography scans,2005,1
+computer monitor,2005,1
+diagnosis,2005,1
+documentation,2005,1
+endoscopic,2005,1
+fluoroscopic images,2005,1
+focus on,2005,1
+given,2005,1
+graphical overlays onto,2005,1
+image data,2005,2
+image modalities,2005,2
+intra,2005,1
+medical image modalities,2005,1
+medical images,2005,2
+navigation systems,2005,2
+navigation technology,2005,1
+operated anatomy,2005,1
+operation planning,2005,1
+operatively generated images,2005,1
+orthopaedic surgery,2005,2
+orthopaedic surgical navigation,2005,1
+orthopaedics,2005,1
+preoperative image data,2005,1
+surgical action,2005,1
+surgical education,2005,1
+surgical navigation systems,2005,2
+ultrasonic,2005,1
+visualization,2005,1
+confidence,2139,8
+confidence sets,2139,5
+dependence,2139,1
+detailed analysis,2139,1
+distributed random vector,2139,1
+distribution parameters,2139,1
+exact estimates,2139,1
+generalized confidence set,2139,5
+generalized confidence sets,2139,3
+inaccurately,2139,1
+indeterminate random vector,2139,2
+known,2139,1
+mean value,2139,2
+random vector,2139,4
+statistically,2139,2
+comprehensive encoding,1952,1
+decoherence,1952,4
+decoupling pulse sequences,1952,1
+decoupling pulses,1952,1
+decoupling solution,1952,1
+design constraint,1952,1
+dominant decoherence processes,1952,1
+engineering constraints,1952,1
+interaction,1952,1
+logical,1952,1
+major concerns,1952,1
+qubit,1952,3
+qubits,1952,1
+scalable quantum computing devices,1952,1
+analytical expressions,1961,1
+analytical formulas,1961,1
+fundamental,1961,1
+highway,1961,3
+highway traffic,1961,2
+lane expansion,1961,1
+long,1961,1
+numerical results,1961,1
+numerical simulations,1961,1
+plateau region,1961,1
+saturated flow,1961,1
+toll collection,1961,1
+tollbooth,1961,4
+tollbooth increases,1961,1
+tollbooths,1961,2
+traffic flow,1961,1
+travel time,1961,2
+vehicle queuing,1961,1
+waiting time,1961,1
+computer industry,2066,3
+equilibrium model,2066,1
+firm numbers,2066,1
+industry evolution,2066,1
+life cycle,2066,1
+patterns,2066,2
+peculiar,2066,1
+personal computer industry,2066,3
+price,2066,1
+process innovations,2066,1
+quality,2066,2
+quality along,2066,1
+quantity,2066,1
+associated costs,211,1
+healthcare supplier,211,1
+interfacing,211,1
+mckesson,211,4
+mobile infrastructure software,211,1
+mobility middleware,211,1
+paperless,211,1
+pervasive clients,211,1
+pervasive computing,211,2
+pervasive computing applications,211,1
+redelivery,211,1
+services,211,1
+technologists,211,1
+adding,232,1
+assurance mechanisms,232,1
+central ilumina repository,232,1
+creating,232,1
+democratization,232,1
+digital library,232,2
+distributed ilumina library,232,1
+emerging experience associated,232,1
+engineering,232,1
+granular,232,1
+ilumina,232,6
+instructional,232,4
+instructional resources,232,3
+internet,232,1
+librarians,232,1
+library services today,232,1
+metadata,232,1
+repurposing,232,1
+resource contributors,232,1
+sharing,232,2
+teaching resources,232,1
+health care,229,1
+uk,229,1
+1 mm,2018,1
+active laser triangulation,2018,1
+application,2018,2
+basic technology,2018,1
+conventional components,2018,1
+czochralski,2018,1
+determines optimal nugget placement,2018,1
+fragile fused silica crucible,2018,2
+geometry profile,2018,1
+highly irregular shaped objects,2018,2
+irregular shaped objects,2018,2
+map highly,2018,1
+melt pulling,2018,1
+nugget,2018,6
+nuggets,2018,4
+packing,2018,4
+packing algorithm,2018,1
+packing constraints,2018,1
+polycrystalline silicon nuggets,2018,2
+real commercial manufacturing processes,2018,1
+robotic system,2018,1
+semiconductor manufacturing,2018,1
+semiconductor wafer production,2018,1
+deriveassist,1984,1
+deriving,1984,1
+field test measurements,1984,1
+generator control simulation,1984,1
+model parameters,1984,1
+parameter derivation process,1984,1
+parameter matching,1984,1
+power plant electric generator modelling,1984,1
+power system simulation,1984,1
+automation,2157,2
+bendwizard,2157,1
+cad skills,2157,1
+desktop computers,2157,1
+metal cabinets,2157,1
+offline programming,2157,1
+robotics,2157,1
+semiskilled operators,2157,1
+simulation,2157,1
+software tool,2157,1
+understandably,2157,1
+work cell,2157,1
+decision,2053,3
+decision models,2053,1
+decision support systems,2053,1
+enormous,2053,1
+management science,2053,2
+ms education,2053,2
+ms educators,2053,1
+primary delivery vehicle,2053,1
+quantitative modeling techniques,2053,1
+spreadsheets,2053,2
+teaching management science,2053,1
+average,2084,4
+average delay,2084,2
+average flow,2084,1
+changing,2084,2
+combined dispatching,2084,2
+dispatching rules,2084,1
+finite buffer capacity,2084,1
+flexible manufacturing system,2084,2
+machine utilization,2084,1
+performance measures,2084,2
+routeing,2084,5
+routeing dynamics,2084,1
+routeing plans,2084,1
+routeing strategies,2084,2
+routings,2084,2
+routings dynamic policy,2084,1
+simulation,2084,1
+2000 pro,321,1
+98se,321,1
+complete,321,1
+configuration tool,321,1
+control,321,1
+data collection procedure,321,1
+mac os systems,321,1
+mac os x,321,4
+mac os x environment,321,1
+mac os x system,321,2
+multimodal data collection tool,321,1
+procedural,321,1
+realbasic and,321,1
+sonified graphs,321,1
+stimulus presentation,321,1
+visual/auditory stimulus combinations,321,1
+bms,1947,1
+building management systems,1947,2
+building performance,1947,1
+compatibility,1947,2
+modelling user acceptance,1947,1
+optimising,1947,1
+questionnaire survey,1947,1
+technology acceptance,1947,1
+user acceptance,1947,2
+user perceptions,1947,2
+voluntariness,1947,1
+architectures,2184,3
+association,2184,1
+decentralized forms,2184,1
+evolution,2184,2
+future,2184,1
+impact,2184,2
+information system,2184,6
+information system architectures,2184,2
+information systems,2184,4
+internet,2184,1
+logical linkages,2184,1
+organization structures,2184,5
+organizational forms,2184,1
+cell biology laboratory,2200,2
+computational resources,2200,1
+domain tasks,2200,1
+fluid interaction,2200,1
+formal representation,2200,1
+foster improved,2200,1
+laboratory,2200,4
+laboratory setting,2200,1
+labscape,2200,3
+making information available,2200,1
+organizing data,2200,1
+pen,2200,1
+satisfaction,2200,1
+smart environment,2200,3
+smart environments,2200,1
+ubiquitous computing,2200,1
+circuit model,287,2
+circuit models,287,1
+core flux,287,1
+dependence,287,1
+effect,287,2
+frequency response,287,2
+inductance losses,287,1
+inductor require,287,1
+linear regression technique,287,1
+lossless inductor,287,1
+lossy inductance,287,1
+loudspeaker,287,2
+mathematical expressions,287,1
+measured data,287,1
+omega /sup,287,1
+parameter estimation,287,1
+separate element,287,1
+spice,287,1
+ackoff,2055,1
+algorithms,2055,2
+attention,2055,1
+business school management science,2055,2
+business school management science course,2055,2
+decision makers,2055,1
+decline,2055,2
+general management program,2055,1
+job,2055,1
+living instead,2055,1
+management problems,2055,1
+management science,2055,6
+management science tools,2055,1
+mba,2055,3
+mba programs,2055,1
+model,2055,1
+poor student mathematical preparation,2055,1
+profession,2055,4
+professional introversion,2055,1
+students,2055,1
+teach,2055,2
+compatibility,1939,2
+corresponding algorithms,1939,1
+linear constraints,1939,1
+linear diophantine equations,1939,1
+minimal generating sets,1939,1
+minimal supporting set,1939,1
+mixed types,1939,1
+nonstrict inequations,1939,1
+strict inequations,1939,2
+systems,1939,4
+upper bounds,1939,1
+pro,231,2
+publishing,231,1
+request,231,1
+uninitiated,231,1
+chebyshev metric,2035,1
+desired criterion values,2035,1
+efficient,2035,6
+evaluations,2035,7
+set,2035,4
+set generated,2035,1
+solutions,2035,1
+vector evaluations,2035,4
+weakly efficient,2035,2
+characteristic function,2118,2
+classical characteristic function,2118,1
+cooperative games,2118,2
+game,2118,3
+unique solution,2118,1
+accessibility issues,253,1
+accessible,253,3
+accessible streaming content,253,2
+assistance,253,1
+blind,253,1
+dialog,253,1
+html,253,1
+interface elements,253,1
+media,253,3
+multimedia projects,253,1
+quality,253,2
+section 508,253,1
+service,253,2
+sound effects,253,1
+spec,253,1
+streaming content,253,4
+streaming content developers,253,1
+streaming media,253,1
+visually impaired,253,1
+web,253,3
+web accessibility,253,1
+competitive ratio,351,2
+competitive ratio 5/2,351,1
+identical machines,351,2
+list scheduling,351,1
+machine availability constraints,351,2
+machine m/sub j/,351,1
+makespan,351,1
+minimizing,351,1
+online scheduling,351,1
+optimal algorithm,351,1
+optimal online algorithm,351,1
+scheduling on,351,2
+computer skills,281,1
+inquiry,281,5
+inquiry required autonomous learning,281,1
+intellectual scaffolding,281,1
+management skills,281,1
+metacognitive skills,281,1
+paradigm shifts,281,1
+pilot test,281,1
+preservice,281,2
+preservice teachers,281,1
+qualitative emergent design,281,1
+scaffolding,281,2
+science,281,3
+scientific discourse,281,1
+secondary,281,1
+society interaction,281,1
+sts,281,2
+student,281,3
+surfaced,281,1
+systematic,281,2
+technology,281,1
+time management,281,2
+trust,281,1
+web,281,4
+web environment,281,1
+net assembly,407,1
+net framework sdk,407,1
+generating code,407,1
+implementations,407,1
+language runtime,407,1
+namespace,407,3
+regex class,407,1
+run time,407,2
+algorithm,2012,1
+analysis,2012,1
+deformation contouring,2012,1
+derivatives of displacement,2012,1
+digital differentiation process,2012,1
+digital methods,2012,2
+displacement field,2012,1
+drawbacks,2012,1
+engineering,2012,2
+engineering design,2012,1
+gabor filters,2012,1
+moire interferometry,2012,1
+moire pattern,2012,1
+multichannel gabor filter,2012,1
+optical methods,2012,1
+powerful,2012,1
+strain contouring using,2012,1
+strain segmentation,2012,1
+data management,2194,1
+directory services,2194,1
+information services,2194,2
+large scale,2194,1
+mobile,2194,1
+nonlocal,2194,1
+pervasive computing environments,2194,1
+traffic reports,2194,1
+weather,2194,1
+accuracy,384,2
+boresight axis,384,1
+charge coupled device,384,1
+determination accuracy,384,1
+erroneous solution,384,1
+inertial,384,1
+minimum star brightness,384,1
+modern,384,1
+photodetector,384,1
+reliability,384,1
+sensor,384,1
+star tracker,384,2
+test,384,1
+agents,364,1
+building,364,1
+communication,364,2
+constraints,364,3
+declarative,364,1
+decomposing complex problems,364,1
+distributed nature,364,1
+distributed program execution,364,1
+extends,364,1
+industrial applications,364,1
+logic programming platform,364,1
+logic programming system,364,1
+maclp,364,3
+multi,364,4
+multi agent constraint logic,364,2
+multi agent systems,364,2
+programmer,364,1
+programming,364,6
+programming schema,364,1
+prolog processes,364,1
+requires programming tools,364,1
+sequential,364,1
+alkali cations,276,1
+analogues,276,1
+assess,276,2
+cation,276,2
+complexation,276,1
+computational models,276,1
+data sets,276,1
+descriptor,276,1
+fragment sets coupled,276,1
+k/sup,276,2
+ligand,276,1
+logk,276,1
+macrocyclic compounds,276,1
+macrocyclic effect,276,3
+nonlinear fitting equations,276,1
+solov'ev,276,1
+stability constants,276,2
+substructural molecular fragments method,276,2
+asynchronous,2192,1
+autonomous,2192,1
+device miniaturization,2192,1
+internet services,2192,2
+middleware,2192,1
+mobile agents,2192,1
+mobile clients,2192,1
+mobile telecommunications,2192,1
+programming paradigm suitable,2192,1
+providing,2192,1
+ubiquitous provisioning,2192,1
+big picture,254,1
+designing,254,1
+infrastructure,254,2
+networking,254,1
+optimal performance,254,1
+reliability,254,1
+tools,254,2
+web infrastructure,254,1
+web performance monitoring,254,1
+web sites,254,1
+data visualization,331,4
+data visualization application,331,1
+display multivariate data,331,1
+graphical interface provides,331,1
+histograms,331,1
+interactivity,331,1
+multidimensional data visualization,331,2
+multidimensional image,331,1
+psycholinguistic experiments,331,1
+scatter,331,2
+software packages,331,1
+visual attribute,331,1
+visual object,331,1
+visualization toolkit,331,1
+arbitrarily shaped apertures,2023,1
+blurring aberration,2023,1
+circular aperture,2023,1
+circular mask,2023,3
+circular mask diffraction,2023,1
+coded imaging systems,2023,1
+etc,2023,1
+gamma rays,2023,1
+intensity distribution,2023,1
+mask design,2023,1
+mask properties,2023,1
+mathematical tool,2023,1
+modern technology,2023,1
+multiaperture mask,2023,1
+optical information processing,2023,1
+periodic apertures,2023,3
+periodic apertures imaging system,2023,1
+periodic rectangular apertures,2023,3
+pinhole cameras,2023,1
+single aperture,2023,1
+abdominal movement recordings,390,1
+ann/sub,390,4
+ann/sub insp/,390,2
+automated algorithm,390,1
+automated breath detection,390,1
+breath detection,390,2
+classification task,390,1
+desired windows,390,1
+expiration,390,6
+expiration occurs,390,1
+expiration onsets,390,1
+feedforward backpropagation artificial neural networks,390,1
+human,390,5
+human expert,390,5
+human expert results,390,1
+human experts,390,2
+independent artificial neural networks,390,1
+infant sleep data,390,1
+mean difference,390,1
+positive predictive values,390,1
+postprocessing,390,2
+respiratory data acquired during,390,1
+respiratory volume data,390,1
+respiratory volume signal,390,1
+specificity,390,1
+uncalibrated rib cage,390,1
+absolute values,1999,1
+complementary sensitivity function,1999,1
+controllers,1999,3
+equal robustness,1999,1
+h/sub infinity,1999,1
+integrated absolute error,1999,1
+integrating,1999,1
+performance comparison,1999,1
+performance criterion,1999,1
+pid,1999,3
+pid controllers,1999,1
+robustness,1999,2
+sense,1999,1
+sensitivity function,1999,2
+step load disturbance,1999,1
+autograph,2058,1
+dust jacket,2058,1
+economic principles,2058,1
+fair market value,2058,1
+hypothesis,2058,1
+active systems,2120,3
+balanced system,2120,1
+criteria,2120,2
+linear active systems,2120,1
+weighted goal functions,2120,1
+diagnosed,340,1
+nuclear power plant,340,1
+power plant,340,2
+shadow,340,1
+simulator,340,1
+temelin,340,2
+temelin nuclear,340,1
+training,340,1
+turbogenerator vibrations,340,1
+382,302,1
+altavista,302,1
+celex,302,2
+estimates,302,5
+familiarity,302,2
+forenames,302,1
+frequency estimates,302,3
+internet search engines,302,5
+kucera,302,2
+large databases,302,1
+search engines,302,7
+slang,302,1
+traditional linguistic corpus,302,1
+word frequency,302,3
+word frequency analyses,302,1
+acute period,2036,2
+computational procedures,2036,1
+computer processing,2036,2
+concussion,2036,2
+data,2036,1
+experimental information,2036,1
+mental impairments,2036,1
+actuator failure hypothesis,385,1
+actuator failures,385,2
+additional,385,2
+blended estimate,385,1
+design,385,2
+effectiveness estimation,385,1
+failure effectiveness,385,1
+filter spawning,385,3
+filters' estimates,385,1
+linearized models,385,1
+mmae bank,385,1
+model adaptive estimation,385,2
+multiple model adaptive estimation,385,2
+partial actuator failure hypotheses,385,1
+partial actuator failures,385,1
+partial failure adaptation,385,1
+partial failures,385,1
+partial failure,385,2
+spawned filters,385,2
+substantial precision,385,1
+truth model,385,2
+industry,2,2
+industry observers,2,1
+lukewarm reception,2,1
+services,2,4
+technology,2,1
+ultimately,2,1
+wavelength services,2,3
+coalescing,313,1
+communication,313,1
+computer science,313,1
+degrees,313,1
+education,313,4
+evolves,313,1
+graphic,313,1
+information architects,313,1
+information architecture,313,6
+information architecture curriculum,313,1
+information architecture education,313,2
+information architecture studies,313,1
+information society,313,1
+interdisciplinary approach,313,1
+marketplace,313,1
+profession,313,3
+professional education typically,313,1
+professional practice,313,1
+resulting,313,1
+students,313,1
+technical,313,1
+usability studies,313,1
+user,313,1
+banach space,357,3
+banach spaces,357,1
+cauchy problem x,357,1
+classf/sub c/,357,1
+dual space x,357,1
+isometric embedding,357,1
+minkowski embedding theorem,357,1
+real continuous functions defined,357,1
+relatively compact subsets,357,1
+separable banach space x,357,1
+architectures,2195,1
+contextual factors,2195,1
+decentralization,2195,1
+information,2195,5
+information space model,2195,1
+information spaces,2195,3
+modeling privacy control,2195,1
+pervasive computing environments,2195,1
+pervasive computing systems,2195,1
+privacy control,2195,4
+privacy objectives,2195,2
+significant complexity,2195,1
+theoretical model,2195,1
+unified privacy tagging,2195,1
+300 mm,22,2
+300 mm fabs,22,1
+automation,22,2
+software simulation,22,1
+throughput,22,1
+captains,341,2
+drawing,341,1
+final,341,2
+game,341,1
+hat,341,3
+momentum,341,1
+pressure,341,1
+slates,341,1
+heterogenous j2ee application server environments,224,1
+java,224,3
+java portability,224,1
+java verification program aims,224,1
+launched,224,1
+portability,224,2
+software vendors,224,1
+battery energy storage system,2089,1
+biggest battery,2089,1
+stabilise,2089,1
+voltage compensation,2089,1
+lab experiments,2143,1
+quantum computers,2143,1
+quantum computing,2143,1
+scaling,2143,1
+technology could,2143,1
+accessibility barriers,412,1
+attitudes,412,1
+attitudinal barriers,412,2
+children,412,4
+collaborative research methodology,412,1
+controlled pretest/posttest design,412,1
+desktop virtual reality,412,1
+disability awareness,412,1
+familiarity,412,1
+gender,412,1
+grades,412,1
+impairments,412,2
+inappropriate comments,412,1
+mobility,412,2
+mobility impairments,412,2
+narrow doors,412,1
+objects,412,1
+software,412,2
+virtual reality to,412,1
+virtual wheelchair experience obstacles,412,1
+vr,412,1
+abb,2151,2
+automotive industry,2151,1
+building's systems,2151,1
+example,2151,1
+industrial/sup,2151,1
+manufacturing,2151,1
+performance buildings,2151,1
+technical infrastructure,2151,1
+academic resources coalition,243,1
+allen press,243,1
+biological,243,2
+biological sciences,243,1
+bioone,243,2
+collaborative strategies,243,1
+database,243,1
+electronic journal,243,1
+environmental sciences,243,1
+genesis,243,1
+intellectual property models,243,1
+new model,243,1
+project,243,4
+publishing project,243,1
+scholarly publishing,243,2
+sparc,243,1
+technical,243,1
+unique,243,1
+university of kansas,243,1
+arbitrary,2117,2
+commutation of channels,2117,1
+commutators display,2117,1
+generalized hypercube displays,2117,1
+generalized hypercubes,2117,1
+business experience,2175,1
+combines,2175,1
+excellent customer service,2175,1
+firm,2175,7
+firms,2175,1
+key tests,2175,1
+legal,2175,1
+technical skills,2175,1
+track record,2175,1
+web,2175,6
+web site,2175,6
+circuit analysis,2097,1
+computer network,2097,1
+minimal paths,2097,1
+proposed algorithm,2097,1
+spanning tree,2097,4
+structural mps,2097,1
+undirected graphs,2097,1
+coefficient,2039,1
+hierarchical structure,2039,2
+identification,2039,1
+inverse problem,2039,3
+parabolic equation,2039,1
+unique solvability,2039,1
+artificial,363,1
+control loops,363,1
+controlled system,363,1
+element,363,1
+finally,363,1
+simultaneity,363,2
+simultaneity explains,363,1
+synthetic,363,2
+accurate,271,1
+aggregation,271,3
+average,271,1
+bagging,271,2
+bootstrap aggregation,271,1
+diversity,271,2
+ensemble methods,271,1
+ensemble techniques,271,1
+full sample,271,1
+generalization error,271,1
+generalization performance,271,2
+individual models,271,1
+inherently,271,1
+krogh,271,1
+neural network ensembles,271,1
+neural network practitioners,271,1
+neural networks,271,1
+popularity,271,1
+predictors,271,1
+qsar,271,2
+qspr,271,2
+retraining,271,1
+simpler techniques,271,1
+training parameters,271,1
+uncertainty,271,1
+bounded rationality,2064,3
+bruce kaufman,2064,1
+claiming,2064,1
+cognitive constraints,2064,1
+contrasted,2064,1
+decision,2064,1
+emotional arousal,2064,3
+emotions,2064,2
+high emotional arousal,2064,2
+kaufman,2064,4
+unidimensional,2064,1
+3d lambertian surface structure,205,1
+3d surface reconstruction,205,1
+arbitrary,205,2
+arbitrary number point,205,1
+automatic surface reconstruction,205,1
+combining motion and,205,1
+geotensity constraint,205,1
+linear intensity subspaces,205,1
+moving object,205,1
+object motion,205,1
+object observed,205,1
+point light source,205,3
+single fixed camera,205,1
+single point light,205,1
+static camera,205,1
+unknown,205,1
+accelerations required,374,1
+ground speed changes,374,1
+horizontal waypoint guidance algorithm,374,1
+horizontal waypoint guidance design using optimal control,374,1
+linear quadratic regulator,374,1
+lyapunov stability theorem,374,1
+sequence,374,2
+simulation results,374,1
+waypoint,374,6
+waypoint changing,374,1
+bandwidth,396,1
+circuit performance,396,2
+complete,396,2
+complete detector,396,1
+external circuit,396,1
+gaas msms,396,1
+global simulation,396,3
+global simulation technique,396,1
+global simulations,396,1
+interdependence between device,396,1
+millimeter waves,396,1
+mixer circuit,396,2
+optical responsivity,396,1
+photomixer circuits,396,1
+physical device model,396,1
+acquisition noise,2025,1
+acquisition system,2025,3
+applying regression methods,2025,1
+camera outputs,2025,1
+cielab,2025,1
+ciexyz,2025,1
+color data,2025,1
+eigenvector approach,2025,1
+experimental setup,2025,1
+imaged surface,2025,1
+multispectral color image acquisition system consisting,2025,1
+multispectral color image capture,2025,1
+professional monochrome ccd camera,2025,1
+spectral characterization,2025,1
+spectral model,2025,1
+spectral reflectance,2025,1
+spectral transmittance,2025,1
+tunable filter,2025,2
+classification,393,1
+cluster analysis,393,1
+compression,393,1
+computational complexity,393,1
+correlation method,393,1
+distortion measure,393,3
+distortion measures,393,1
+ecg analysis,393,2
+ecg cycles,393,1
+electrocardiogram,393,1
+monitoring,393,1
+morphology changes,393,1
+perturbation stochastic approximation,393,1
+qrs during,393,1
+randomization procedure,393,1
+real data,393,2
+resulting nonsmooth optimization,393,1
+simulated,393,1
+simultaneous,393,1
+single patient,393,1
+smooth approximation,393,1
+spall,393,1
+spsa method,393,1
+usual,393,1
+vector quantization,393,1
+ventricular activation,393,1
+aluminium alloy,2087,1
+challenges conventional assumptions,2087,1
+cutting speed,2087,1
+fractal dimension,2087,1
+fractals,2087,2
+machining frictional boundary conditions,2087,1
+tool,2087,2
+content standards,239,3
+electronic,239,5
+electronic books,239,3
+electronic publishing,239,1
+interoperable,239,1
+oebf publication structure,239,1
+public,239,4
+public interest participation,239,1
+publication,239,2
+publishing,239,2
+reading systems,239,1
+sound engineering models,239,1
+standards development,239,1
+technological opportunities,239,1
+businesses vary,1963,1
+constituent businesses,1963,1
+correlation,1963,1
+firm,1963,5
+firm growth rates,1963,1
+firm's,1963,2
+growth rates,1963,2
+independent businesses,1963,1
+integers,1963,1
+powerlaw nature,1963,1
+small firms,1963,1
+variance,1963,2
+allan method,2112,1
+allan variance,2112,1
+filtering require,2112,1
+frequency response,2112,1
+ieee trans,2112,1
+increments of noise,2112,1
+information,2112,2
+noise,2112,3
+radio engineering,2112,1
+statistical analysis,2112,1
+usa metrology community,2112,1
+voluminous literature,2112,1
+airgate pcs,4,1
+beleaguered sector,4,1
+charter communications,4,1
+cheap company,4,1
+cox communications,4,1
+directors purchasing their,4,1
+echoing,4,1
+industry insiders loading,4,1
+insider buying,4,1
+insider investment,4,1
+international,4,1
+nextel communications,4,1
+nortel networks,4,1
+telecom executives,4,1
+telecom industry,4,1
+linear algebraic equations,1938,2
+numerical system,1938,1
+9000,294,1
+catalog record,294,1
+climate control system,294,1
+minimal delay,294,1
+ohio state university libraries,294,2
+ohio state university libraries depository,294,1
+online,294,1
+remote location,294,1
+storage facility,294,2
+calculated,2111,1
+chlorophyll,2111,4
+chlorophyll fluorescence,2111,3
+fluorescence provides,2111,1
+focal planes,2111,1
+imaging chlorophyll fluorescence,2111,1
+imaging dynamic changes,2111,1
+individual cells,2111,1
+inherently uneven,2111,1
+leaf topology,2111,1
+localised changes,2111,1
+photosynthetic function,2111,2
+photosynthetic parameters,2111,1
+robustness,2111,1
+assuming,2162,1
+boolean algebras,2162,4
+cardinal invariants,2162,1
+cardinalities,2162,2
+closed subspaces,2162,1
+construct,2162,2
+constructions,2162,1
+depth,2162,2
+free product,2162,1
+homomorphic images,2162,1
+lastly,2162,1
+pcf,2162,1
+prescribed,2162,1
+topological density,2162,1
+ultraproducts,2162,1
+zfc,2162,1
+complex technical systems,2121,1
+computation experiment,2121,1
+control system,2121,1
+designing,2121,1
+flexibility analysis,2121,1
+fuzzy mathematical models,2121,1
+initial physical,2121,1
+internal factors,2121,1
+partial uncertainty,2121,1
+technical system,2121,6
+technical systems,2121,2
+technological,2121,1
+uncertainty,2121,2
+viz,2121,1
+academic libraries,234,1
+electronic journals,234,1
+interim evaluation,234,1
+jisc,234,1
+joint information systems committee,234,1
+key issues,234,1
+license,234,2
+national electronic site licensing initiative,234,2
+nesli,234,2
+site licensing,234,3
+acadian's traditions,284,1
+animation,284,1
+cajun culture,284,1
+computer multimedia,284,2
+computer multimedia program,284,1
+director,284,1
+edtc,284,1
+educational,284,1
+inc,284,1
+integrated their learning,284,1
+local cultural,284,1
+local culture,284,1
+louisiana learned,284,1
+macromedia,284,1
+microcomputers,284,1
+preserve,284,2
+regional state university,284,1
+school teachers,284,1
+sound,284,1
+southwestern louisiana,284,1
+superiority,284,1
+teachers learning,284,1
+video,284,1
+multiple user accounts,406,1
+multiple users,406,1
+remote desktop,406,1
+remote machine,406,1
+run,406,2
+terminal server,406,2
+terminal services,406,2
+user switching,406,4
+windows nt,406,1
+windows xp,406,4
+windows xp fast user switching,406,1
+case studies,2086,1
+computer aided design,2086,1
+cost estimation module,2086,1
+design,2086,7
+design feasibility technique,2086,1
+high manufacturing cost,2086,1
+initial process planning,2086,1
+injection moulding processes,2086,1
+machining,2086,3
+machining processes,2086,1
+manufacturing processes,2086,1
+material selection module,2086,1
+namely,2086,1
+process optimization,2086,1
+product cost,2086,2
+product cost modelling,2086,1
+product development,2086,1
+solid modelling system,2086,1
+user interface,2086,1
+accumulation moments,1975,1
+convolution,1975,2
+convolving,1975,1
+edge detection,1975,1
+efficient computation,1975,1
+local moments,1975,2
+matrix formulation,1975,1
+neighborhood operation,1975,1
+overlapping windows,1975,1
+texture segmentation,1975,1
+uncorrelated noise,1975,1
+bagsik oscillator,1962,2
+bagsik oscillator without,1962,1
+complex,1962,1
+deterministic,1962,1
+incorrect banking data,1962,1
+central interest,288,1
+complexity transitions,288,1
+computational complexity,288,1
+cpu requirements,288,1
+crossing phase boundaries,288,1
+deciphering,288,1
+finite fields,288,1
+finite galois field modulo,288,1
+gaussian elimination,288,1
+global algorithm,288,2
+global algorithms,288,1
+integer factorization,288,1
+memory,288,1
+messages encrypted,288,1
+phase transitions,288,1
+random linear equations,288,1
+rsa cryptosystem,288,1
+running time,288,1
+solution space,288,1
+sparse linear systems,288,1
+statistical mechanics,288,1
+upper bounds,288,1
+very basic problem,288,1
+breadth,2110,1
+computer systems,2110,1
+group processes,2110,1
+highlights,2110,1
+interactions,2110,1
+international conference,2110,1
+internet,2110,6
+internet,2110,6
+mediate,2110,1
+organizational implications,2110,1
+people,2110,1
+psychological practice,2110,1
+psychological research,2110,1
+psychologists,2110,1
+psychology,2110,3
+useable,2110,1
+hoc communication support,2198,1
+pervasive computing,2198,2
+pervasive computing software,2198,1
+runtime operations,2198,1
+sensors,2198,1
+spontaneous information exchange,2198,1
+user actions,2198,1
+1976,314,1
+acm sigchi conference,314,1
+asis,314,2
+attendees,314,1
+disparate,314,1
+emergence,314,2
+history,314,1
+ia,314,9
+information architects,314,1
+information architecture,314,2
+information systems,314,1
+initial,314,1
+jasist,314,1
+kraft,314,1
+label,314,1
+run,314,1
+sufficient interest,314,1
+wurman,314,1
+cellular automaton,394,1
+computer simulation,394,1
+ecological,394,1
+human intestinal microflora,394,1
+intestinal microflora,394,3
+laboratory experiments,394,1
+microflora,394,4
+mimics project,394,1
+model,394,2
+modeling,394,1
+molecular methods,394,1
+observing power,394,1
+quantitative theory,394,1
+simulation,394,4
+simulation environments,394,1
+simulator,394,1
+classification,197,4
+classification mixture models,197,1
+classification performance,197,1
+data generation process,197,1
+efficient training algorithms,197,1
+experts classification,197,1
+experts classifier,197,1
+finite number,197,1
+following,197,1
+general training approach,197,1
+hierarchical mixture model,197,2
+improved,197,1
+maximum likelihood,197,1
+posterior probability,197,1
+commerce,2173,1
+communication,2173,2
+dx,2173,1
+facsimile,2173,1
+hardware encryption,2173,1
+legal profession,2173,3
+medium,2173,2
+practice,2173,1
+registered,2173,1
+software encryption,2173,1
+widespread,2173,1
+cable tv delivery,334,1
+copper,334,2
+internet signals,334,1
+market segments,334,1
+network edge devices,334,1
+niche,334,3
+niche markets,334,1
+telecommunications infrastructure,334,1
+twisted copper pair,334,1
+acceptance,235,1
+associate organisations,235,1
+australia,235,4
+australian,235,3
+australian libraries,235,1
+australian university librarians,235,1
+caul,235,1
+consortia,235,4
+consortial purchasing,235,2
+consortial purchasing agent,235,1
+constituted,235,1
+cooperative action,235,1
+council,235,2
+electronic publication,235,1
+europe,235,1
+north america,235,1
+zealand,235,1
+accumulative recording,307,1
+animal,307,1
+computer program,307,2
+experiencing fixed ratio,307,1
+fixed interval,307,1
+generate,307,1
+nonhuman subjects,307,2
+operant schedules,307,2
+programming schedules,307,1
+reinforcement,307,2
+student,307,2
+variable interval schedules,307,1
+variable ratio,307,1
+fibre channel,218,1
+ip systems,218,1
+iscsi,218,2
+san costs,218,1
+finite sets,2136,2
+network,2136,2
+network reconstruction,2136,2
+optimization,2136,2
+original extremal problem,2136,1
+problem input,2136,1
+restricted,2136,1
+sequence terms,2136,1
+15,216,1
+38 ghz,216,1
+accuracy,216,2
+computer program,216,1
+curve fitting technique,216,1
+data bank,216,2
+efficient,216,1
+error analysis,216,1
+high accuracy,216,1
+interpolated,216,1
+interpolation,216,4
+interpolation process,216,1
+nonlinear fitting technique,216,1
+null computational,216,1
+pitter,216,1
+pruppacher,216,1
+raindrops,216,3
+realistic raindrops,216,2
+singapore,216,1
+tcs,216,4
+tcs results,216,1
+tcs values,216,2
+vertical,216,1
+circuit,403,3
+circuit techniques,403,3
+coupling capacitors,403,1
+flash memories,403,4
+latch,403,4
+latched nodes,403,1
+level shifter,403,1
+low noise,403,1
+low operating voltage,403,1
+low ripple voltage,403,1
+maximum internal voltage,403,2
+negative erasing voltage,403,1
+nor flash,403,4
+adaptively tuned,380,1
+command feedforward controller,380,1
+control,380,11
+control specifications,380,1
+desired regulation control requirements,380,1
+disturbance cancellation robust controller,380,1
+feedback controller,380,1
+fuzzy adapted,380,1
+fuzzy control scheme,380,1
+inverse model,380,2
+inverse plant model,380,1
+nonlinear dynamic behavior,380,1
+operating,380,1
+quantitative speed control,380,1
+reference model,380,1
+regulation control,380,2
+robust speed control,380,1
+speed control,380,3
+speed dynamic response,380,1
+srm,380,3
+srm drive,380,2
+srm drive using,380,1
+switched reluctance motor,380,1
+tracking,380,3
+acquisition,195,3
+familiarity,195,1
+music publishing industry,195,1
+performance editions,195,1
+scholarly,195,1
+specialized publishers,195,1
+technical music,195,1
+causality constraint,2000,1
+digital control systems,2000,1
+generalized predictive control,2000,2
+gpc algorithm,2000,1
+integer multiples,2000,1
+lifted models,2000,2
+multirate,2000,2
+optimal causal control laws,2000,1
+sampling patterns,2000,1
+abstraction,1941,2
+bipolar function,1941,1
+bipole level,1941,1
+descriptive process,1941,1
+descriptological foundations,1941,2
+descriptological operations,1941,1
+elimination,1941,1
+explication,1941,2
+intensional concept,1941,1
+programming,1941,2
+adjustment,1990,1
+advanced information society,1990,1
+bureau,1990,1
+communications infrastructure,1990,1
+electrical facility construction work,1990,1
+information control facilities,1990,1
+information network,1990,2
+information network structuring,1990,1
+information transmission network,1990,1
+optical fiber network,1990,2
+pressing demand,1990,1
+sewage conduits,1990,2
+sewer conduits,1990,1
+sewer optical fiber,1990,1
+comparative analysis,30,1
+data points,30,1
+important variables,30,1
+improved,30,1
+investigates,30,1
+membership functions,30,1
+method's performance,30,1
+modeling,30,2
+parameter identification algorithm,30,1
+qualitative,30,2
+qualitative fuzzy modeling,30,1
+rule,30,2
+sample,30,1
+sugeno,30,2
+trapezoid approximation,30,1
+yasukawa,30,2
+control systems,37,2
+design pid controllers,37,1
+h/sub 2/ pid controller,37,1
+maclaurin pid controller,37,1
+nominal,37,2
+optimal control theory,37,1
+overshoot,37,1
+pid controller,37,5
+process control systems,37,1
+resonance peak,37,1
+rise time,37,1
+stability margin,37,1
+suboptimal pid controller,37,1
+time delay,37,1
+uncertain system,37,1
+california digital library,242,2
+cdl,242,2
+escholarship,242,5
+escholarship initiative,242,1
+escholarship program,242,3
+momentum,242,1
+scholarly publishing,242,1
+sheer,242,1
+timeliness,242,1
+uc,242,2
+university of california,242,2
+communication cost,1943,1
+content,1943,5
+html,1943,3
+html web sites,1943,1
+hypertext markup language,1943,2
+intelligent management system,1943,1
+intelligent wap,1943,2
+keywords,1943,1
+management system,1943,5
+manpower costs,1943,1
+mobile phone screens,1943,2
+numerical,1943,1
+pc users,1943,1
+readability,1943,1
+regarding,1943,1
+site,1943,6
+wap,1943,8
+wap management system,1943,1
+wap users,1943,1
+wireless communications,1943,1
+wireless markup language,1943,1
+wml,1943,3
+business,343,4
+commercial products,343,1
+cooperative projects,343,1
+information,343,1
+innovation research program,343,2
+small business innovation research program,343,2
+categorical response data,332,1
+fitting,332,1
+generalized linear model,332,1
+linear predictor,332,1
+link function,332,1
+longitudinal design,332,1
+nlmixed procedure,332,2
+ordinal outcomes arising,332,1
+psychological studies,332,1
+random effects,332,1
+repeated,332,4
+repeated measures analysis,332,1
+repeated ordinal outcomes,332,3
+sas,332,2
+crossed,328,1
+data,328,5
+faculty,328,1
+group setting,328,1
+important factors,328,1
+independent variables,328,1
+internet,328,2
+lowest,328,1
+mcadams,328,1
+morality scale,328,1
+personality research,328,1
+respondent's choosing,328,1
+response rates,328,1
+shelton,328,1
+survey administered,328,1
+traditional instruments,328,1
+traditional methods,328,1
+web,328,6
+web survey,328,2
+centroid detection,2028,2
+centroids,2028,1
+filter information,2028,1
+modulus,2028,1
+moment function,2028,2
+multiple objects,2028,1
+optical correlation,2028,1
+optical correlator,2028,1
+optical correlation,2028,1
+orientation,2028,1
+single intensity filter,2028,1
+slms,2028,2
+spatial light modulators,2028,1
+third method,2028,1
+acquisition,213,1
+computer equipment,213,2
+computer science,213,1
+data,213,1
+dissemination,213,1
+electronic devices,213,1
+export level,213,1
+fuzzy linear regression,213,2
+fuzzy set theory,213,3
+human thought,213,1
+import,213,1
+independent variables,213,2
+independent variables assumed,213,1
+information systems,213,1
+information technology,213,3
+networks,213,1
+numerical,213,1
+pictorial,213,1
+processing,213,1
+regression function,213,1
+reliable,213,1
+storage,213,1
+technology,213,4
+telecommunication,213,1
+textual,213,1
+turkey,213,2
+vague knowledge,213,1
+vagueness,213,1
+adoption,1971,1
+communication,1971,1
+content analysis,1971,2
+descriptive study,1971,1
+global electronic market,1971,1
+hotel,1971,11
+hotel industry,1971,3
+hotel web sites,1971,2
+hotels,1971,5
+interactive,1971,1
+internet,1971,1
+key changes,1971,1
+managed,1971,1
+marketing,1971,7
+marketing applications,1971,1
+marketing tool,1971,1
+measurement instrument,1971,1
+multimedia,1971,2
+multimedia information,1971,1
+orientation,1971,1
+relationship marketing,1971,2
+strategic,1971,2
+strategic framework,1971,1
+web,1971,13
+web based,1971,2
+web content,1971,1
+web sites,1971,3
+web technology,1971,1
+world wide web marketing,1971,1
+50,398,1
+active microwave circuits,398,1
+active nonlinear microwave circuits using,398,1
+anisotropic pml,398,1
+benchmark,398,1
+computation time,398,1
+extended fetd algorithm,398,1
+fetd,398,3
+fetd lattices,398,1
+global electromagnetic analysis,398,1
+mesh flexibility,398,1
+microwave amplifier indicates,398,1
+nyquist sampling criterion,398,1
+perfectly matched layers,398,2
+propagation bandwidth,398,1
+reduces,398,1
+simulation accuracy,398,1
+spatial discretization,398,1
+truncation,398,2
+unconditionally stable extended,398,1
+waveguide,398,1
+boolean ab,2101,1
+clock signal,2101,1
+continuous wave light,2101,1
+gb/s,2101,1
+input beam,2101,2
+semiconductor optical amplifiers,2101,2
+semiconductor optical amplifiers without,2101,1
+xor gate,2101,4
+critical path,2047,1
+delivering management science/operations research,2047,1
+generalized pert/cpm implementation,2047,1
+project network,2047,1
+spreadsheet,2047,3
+spreadsheet environment,2047,1
+vehicle,2047,1
+broader term service discovery,2190,1
+hour goes,2190,1
+jini,2190,1
+pervasive computing environments,2190,1
+plug and play,2190,1
+salutation,2190,1
+service discovery,2190,4
+service location protocol,2190,1
+universal plug,2190,1
+upnp,2190,1
+hypercube,350,1
+interconnection network research,350,1
+optimal,350,6
+optimal routing policy,350,5
+output channel,350,3
+output channels,350,1
+regular networks,350,1
+routing policies,350,1
+routing policy,350,6
+settles,350,1
+torus,350,4
+appropriate control actions,39,1
+detection allows,39,1
+fuzzy event detector,39,1
+fuzzy events detection,39,2
+hybrid systems,39,2
+linguistic model,39,1
+oxichlorination reactor,39,2
+process operation,39,1
+process variables,39,1
+scrutiny,39,1
+selected membership functions,39,1
+supervisory control,39,3
+supervisory control design,39,1
+supervisory control scheme,39,2
+systems theory,39,1
+vinyl monomer plant,39,1
+basic,2098,1
+body,2098,4
+body forces,2098,4
+boundary value problems,2098,2
+formal derivation,2098,1
+injection moulding,2098,1
+nonisothermal,2098,2
+nonlinear effect,2098,1
+nonlinear systems arising,2098,1
+nonlinearity,2098,1
+pressure gradient,2098,1
+resulting equations,2098,1
+systems,2098,4
+t/sup 0/,2098,2
+weak solutions,2098,1
+awkward,2176,1
+firm,2176,2
+firm web,2176,1
+hurdle,2176,1
+investment,2176,3
+web strategy,2176,1
+additional,1970,1
+electronic commerce,1970,1
+enhancing,1970,1
+evolving technology,1970,1
+global companies,1970,1
+high standards,1970,1
+incorporates,1970,1
+internet,1970,1
+marketing tool,1970,1
+practitioners,1970,1
+profitability,1970,1
+reducing,1970,1
+restaurant,1970,2
+revenues,1970,1
+transaction related expenditures,1970,1
+unparalleled strength,1970,1
+web presence,1970,1
+web sites,1970,1
+website design,1970,1
+website development,1970,1
+website effectiveness,1970,1
+website strategy,1970,1
+accurate,1934,1
+an elliptic system,1934,1
+computational discretization schemes,1934,1
+conjugate conditions,1934,1
+conjugation conditions,1934,1
+controls,1934,1
+distributed systems,1934,1
+elliptic equations,1934,1
+feasible control set u/sub,1934,1
+highly,1934,1
+hilbert space,1934,1
+optimal control,1934,2
+optimal control problems,1934,1
+quadratic minimized function,1934,1
+academic libraries,300,1
+client architectures,300,1
+computer systems,300,1
+pcs,300,2
+thin,300,5
+thin client computing devices,300,1
+thin client devices,300,1
+thin client,300,3
+thins,300,1
+biomolecular complexes,265,1
+complementarity,265,2
+complementary surface patches,265,1
+downhill simplex method,265,1
+fuzzy logic,265,1
+molecular docking,265,1
+molecular surfaces,265,2
+overlapping surface patches,265,1
+quantitative treatment,265,1
+resulting complex structures,265,1
+surface complementarity,265,1
+classical convergent correlator,2015,2
+deformed fringe patterns,2015,1
+experimental results,2015,1
+fourier transform profilometry technique,2015,1
+logarithmic radial harmonic filter,2015,1
+mellin,2015,1
+radial harmonic decomposition,2015,1
+scale factors,2015,1
+scale invariance,2015,3
+scale invariance property,2015,1
+benchmarking precision,322,1
+experimental,322,1
+millisecond,322,2
+millisecond timing precision,322,1
+paradigms,322,1
+precision test rig,322,1
+raw performance,322,1
+real world,322,1
+real world,322,1
+second presentation machine,322,1
+situ,322,1
+software,322,1
+specialist hardware,322,1
+time,322,2
+timing standards lab,322,1
+considers,256,1
+debugging tools,256,1
+debugging web applications,256,1
+programming practices,256,1
+web,256,3
+benchmark,41,6
+closed loop conditions,41,1
+closed loop conditions,41,1
+controller performance,41,4
+controller performance analysis,41,1
+data driven subspace,41,1
+deterministic inputs,41,1
+explicit parametric model,41,1
+external excitations,41,1
+feedforward control,41,1
+limit,41,1
+linear quadratic gaussian,41,1
+lqg,41,8
+lqg benchmark,41,4
+lqg performance framework,41,1
+multivariate systems,41,1
+optimal,41,2
+output variances,41,1
+process input,41,1
+profit analysis,41,1
+setpoint excitation,41,1
+stochastic inputs,41,1
+subspace matrices corresponding,41,1
+tradeoff curve,41,1
+univariate,41,1
+variances,41,4
+approximation operators,359,2
+approximations,359,1
+binary relation,359,2
+binary relations,359,1
+connections,359,1
+equivalence relation,359,1
+finite universe,359,1
+neighborhood operator systems,359,2
+neighborhood systems,359,3
+pawlak,359,1
+rough set,359,3
+rough set approximation space,359,1
+chemical composition,2186,1
+high throughput,2186,2
+high throughput experiments,2186,1
+materials function,2186,1
+priori information,2186,1
+protocols,2186,2
+templated,2186,1
+zeolite,2186,3
+zeolite synthesis,2186,2
+antecedents,2183,1
+business enterprises,2183,1
+competitive,2183,1
+emotional attachment,2183,1
+employee,2183,1
+employing organisation,2183,1
+features inherent,2183,1
+imperatives,2183,1
+implementation,2183,1
+individual,2183,1
+knowledge management,2183,1
+learning organisations,2183,1
+literature,2183,1
+organisation,2183,9
+organisational,2183,5
+organisational performance,2183,1
+organisational structure,2183,1
+performance factors,2183,1
+performance related,2183,1
+productivity,2183,1
+staff turnover,2183,1
+enterprise,250,2
+microsoft project,250,2
+multiple,250,1
+olap support,250,1
+project managers,250,1
+scalability,250,1
+web projects,250,1
+workgroups,250,1
+attractive,2191,1
+general contexts,2191,1
+input mechanism,2191,1
+interface designers,2191,1
+limited speech interfaces,2191,1
+speech input,2191,1
+speech recognition,2191,2
+technology,2191,1
+wearable computers,2191,1
+accurate,2092,1
+anatomical,2092,3
+automatic registration method,2092,1
+automatic ridged body transformations,2092,1
+automatic validation technique,2092,1
+bed positions,2092,1
+consistency,2092,4
+ct data,2092,1
+ct scans,2092,3
+ct/sub 2/,2092,2
+degrees on average,2092,1
+follows,2092,1
+full circle consistency test,2092,1
+head and neck,2092,3
+head and neck area,2092,1
+image enhancements,2092,1
+image fusion methods,2092,1
+matching ct,2092,1
+matching pet,2092,3
+neck can,2092,1
+nonrigid,2092,1
+pet scan,2092,2
+pet scans,2092,1
+radiotherapy treatment mask,2092,1
+registration technique,2092,1
+represented algorithm,2092,1
+reproducible positioning,2092,1
+standard,2092,1
+transmission scan,2092,2
+tumor biology,2092,1
+validation technique,2092,2
+voxel size,2092,1
+antipersistent,1964,2
+antipersistent markov behavior,1964,2
+available information,1964,1
+dollar/deutsche mark exchange rates,1964,1
+efficiency,1964,1
+foreign exchange markets,1964,1
+given size implies,1964,1
+markov behavior,1964,2
+quantitative check,1964,1
+quote sequence,1964,1
+statistical forecast,1964,1
+us,1964,2
+asset management,220,1
+careful,220,1
+consultancy,220,1
+explains,220,1
+kpmg,220,1
+merger pitfalls,220,1
+mergers,220,1
+abstract representations,196,1
+arbitrary input symbols,196,1
+associationist neural network,196,1
+based,196,2
+emergence,196,1
+evolutionary psychology,196,1
+exemplar,196,1
+factor abstract rules,196,1
+generalized abstract structures,196,1
+grammars,196,4
+grammars,196,4
+grammars arises,196,1
+grammatical knowledge,196,1
+hidden unit space,196,1
+hierarchical,196,1
+human linguistic theory,196,1
+input,196,3
+internal representations,196,1
+inventing,196,1
+learning algorithms,196,1
+mammalian nervous system,196,1
+network,196,7
+neural network,196,4
+neural networks,196,1
+new,196,4
+positive,196,1
+potentiation,196,1
+spatial nature,196,1
+state variable,196,1
+symbol sets,196,4
+symbol vocabularies,196,1
+unseen,196,2
+weight adaptation,196,1
+alternating projections,1993,1
+color filter arrays,1993,1
+color plane interpolation,1993,2
+commercial,1993,1
+demosaicing technique,1993,2
+digital camera pipeline,1993,1
+digital cameras,1993,1
+highly visible color artifacts,1993,1
+discounted utility model,2067,1
+du,2067,3
+elicits,2067,1
+functional,2067,1
+health,2067,3
+health outcomes,2067,1
+hyperbolic discounting models,2067,2
+hyperbolic models,2067,2
+intertemporal preferences,2067,4
+monetary outcomes,2067,1
+private intertemporal preferences,2067,1
+social,2067,3
+social decisions,2067,1
+social intertemporal preferences,2067,1
+stationarity axiom,2067,1
+11 psycholinguistic variables,303,1
+260 fragmented,303,1
+controlled time procedure,303,1
+identification thresholds,303,2
+imagery accounted,303,1
+language,303,3
+language to language,303,1
+learning effect,303,1
+normative data,303,1
+pc microcomputer,303,1
+performance,303,1
+resulting,303,1
+snodgrass,303,2
+threshold values,303,1
+total set,303,1
+turbo pascal,303,1
+unspecific,303,1
+vanderwart,303,2
+vanderwart pictures,303,1
+variance,303,1
+verbal stimuli,303,1
+word identification,303,2
+discrete manufacturing,2160,1
+environmental friendliness,2160,1
+evolution,2160,2
+industrial,2160,1
+industry,2160,1
+manufacturing,2160,5
+manufacturing industries,2160,1
+manufacturing process,2160,1
+production practices,2160,1
+resounding,2160,1
+seamless system,2160,1
+technology,2160,2
+technology revolution,2160,1
+user pressure,2160,1
+vertical integration,2160,1
+customer,2144,1
+disclosure,2144,1
+dotcom companies,2144,1
+failing company,2144,1
+failures,2144,1
+personal data,2144,1
+privacy,2144,4
+privacy abuse,2144,1
+privacy policy,2144,2
+third party,2144,2
+actinides,1949,1
+anatomy,1949,1
+biological tissues,1949,1
+brightness,1949,1
+calculational speed,1949,1
+calibration,1949,1
+computation phantoms,1949,1
+computational phantoms,1949,1
+data analysis,1949,1
+distinguishing,1949,1
+energy emitters,1949,1
+energy gamma ray emitting sources,1949,1
+fast construction,1949,1
+geometric representation of,1949,1
+graphical user interface,1949,1
+images,1949,1
+low,1949,2
+magnetic resonance imaging,1949,2
+magnetic resonance imaging scanning information,1949,1
+mcnp calculations,1949,1
+mcnp input data file,1949,1
+memory demand,1949,1
+monte,1949,1
+new,1949,2
+precise,1949,1
+radionuclides deposited,1949,1
+reports,1949,1
+scanning data,1949,1
+software,1949,1
+specification,1949,1
+thorium,1949,1
+tomography,1949,2
+vivo measurement systems,1949,1
+vivo measurements,1949,1
+dispatching,2085,1
+flexible manufacturing system,2085,2
+fuzzy decision support system,2085,2
+fuzzy logic approach,2085,1
+intelligent,2085,4
+intelligent fuzzy decision support system,2085,2
+intelligent fuzzy decision system,2085,1
+intelligent system,2085,1
+multiple,2085,2
+performance measures,2085,2
+routing possibilities,2085,1
+scheduling fmss,2085,1
+simulation model,2085,1
+breaking tests,255,1
+integral investment,255,1
+manageable,255,1
+online offering,255,1
+sessions,255,1
+site development,255,1
+usability,255,3
+usability testing,255,2
+bionics approach,1955,1
+coupling constants,1955,1
+couplings,1955,1
+evacuation,1955,5
+evacuation processes,1955,2
+herding,1955,2
+herding behaviour,1955,1
+minimal evacuation,1955,1
+model parameters,1955,1
+panic,1955,1
+pedestrian dynamics,1955,2
+pedestrians,1955,1
+recently introduced cellular automaton model,1955,1
+automation,1945,1
+binocular,1945,1
+bridge crack inspection,1945,4
+bridge inspection vehicle,1945,1
+ccd cameras,1945,1
+coupled devices,1945,1
+cracks,1945,2
+eyesight inspection,1945,1
+gravity during,1945,1
+human inspectors,1945,1
+manipulator system,1945,3
+manipulator system consists,1945,1
+mobile manipulator imaging system,1945,2
+mobile vehicle,1945,1
+parallel cameras,1945,1
+safety inspections,1945,1
+screening,1945,1
+temporarily erected scaffolding,1945,1
+arbitrary direction,202,2
+convolving,202,1
+css method,202,1
+curvature scale space method,202,1
+curvature values,202,1
+error,202,4
+error in curvature computation,202,1
+error observed,202,1
+estimation error,202,1
+evolution properties,202,1
+gaussian,202,4
+gaussian curvature,202,1
+generalisation,202,1
+geodesic at,202,1
+mean,202,3
+mean curvature,202,3
+mean curvatures,202,1
+semigeodesic,202,2
+semigeodesic coordinates,202,2
+shapes indicating,202,1
+smoothed iteratively,202,1
+smoothed surface curvatures,202,1
+smoothing results,202,1
+standards,202,1
+surface gaussian,202,1
+surface noise,202,1
+volumetric diffusion techniques,202,1
+accurate,2017,1
+autofocusing,2017,2
+automatic focus,2017,1
+compact construction,2017,1
+dc motor,2017,1
+defocused signal,2017,1
+differential amplification,2017,1
+eccentric light beam approach,2017,2
+electric signal,2017,1
+experimental setup,2017,1
+high resolution,2017,1
+micro measurement systems,2017,1
+microprocessor,2017,1
+microscope autofocusing,2017,1
+object lens whose objective plane,2017,2
+semiconductor laser device,2017,1
+symmetrical silicon photocell,2017,1
+wide focusing range,2017,1
+1/h response,291,1
+1024 bits,291,2
+90 degrees phase shift,291,1
+controllable frequencies,291,1
+input pattern,291,1
+liquid crystal,291,2
+low amplitude,291,1
+magnetic resonance molecular photography,291,1
+molecular system,291,1
+nematic liquid crystal,291,1
+nuclear,291,2
+nuclear magnetic resonance spectra,291,1
+programmable multifrequency irradiation,291,1
+spectral resolution,291,1
+spectrum showing,291,1
+spin,291,2
+boolean,1936,2
+boolean functions,1936,1
+decomposition clone,1936,1
+disjunctive decomposition,1936,1
+minterms,1936,1
+n variables,1936,1
+partial functions,1936,1
+repeated decomposition,1936,1
+theorem,1936,1
+abb robots,2154,1
+breakdowns predicted,2154,1
+builders,2154,1
+capability,2154,1
+embedded checklists,2154,1
+global markets,2154,1
+ideal basis,2154,1
+it/,2154,3
+monitoring,2154,3
+negative trends,2154,1
+operating condition,2154,1
+optimize/sup,2154,3
+productivity,2154,1
+rcm,2154,1
+reference data,2154,1
+robot condition monitoring tool,2154,1
+robots,2154,3
+schedule maintenance,2154,1
+stops,2154,1
+today,2154,1
+tremendous pressure,2154,1
+unplanned,2154,1
+amid industry reflection,2145,1
+csi event,2145,1
+enterprise,2145,2
+focusing,2145,1
+netsec,2145,2
+pedagogy,2145,1
+punditry,2145,1
+safeguarding,2145,1
+security,2145,1
+consistent model estimates,2002,1
+diagnosing process,2002,1
+eiv formulation,2002,2
+formulation,2002,2
+model identification,2002,2
+moesp algorithm,2002,1
+monitoring complex industrial processes,2002,1
+multiple variables,2002,1
+n4sid algorithm,2002,1
+pca,2002,5
+pca naturally,2002,1
+principal component analysis,2002,3
+real industrial process,2002,1
+sensor faults,2002,1
+simulated process,2002,1
+smi,2002,1
+subspace identification,2002,4
+subspace identification algorithm,2002,1
+subspace identification approach,2002,2
+subspace identification method,2002,1
+system,2002,3
+system observability subspace,2002,1
+animation experiments,323,1
+appropriateness,323,1
+delivering experiments,323,1
+demonstration experiment,323,1
+discrete,323,2
+discrete animation sequences,323,1
+file formats,323,1
+observer,323,1
+program code,323,1
+simple,323,2
+simple switches,323,1
+canadian national site licensing project,233,2
+cnslp,233,3
+cnslp initiative,233,1
+cnslp tests,233,1
+country's universities,233,1
+electronic journals,233,1
+electronic versions,233,1
+engineering,233,1
+environmental disciplines,233,1
+health,233,1
+innovation capacity,233,1
+licensing,233,4
+national scale,233,1
+organizational,233,1
+pilot,233,1
+project,233,5
+research,233,2
+research databases,233,1
+scholarly publications,233,1
+science,233,1
+70s,2177,1
+care providers,2177,1
+clinical research,2177,1
+communication systems,2177,1
+creativity,2177,1
+data mining,2177,1
+deep humanism,2177,1
+determination,2177,1
+diogene data,2177,1
+distributed,2177,2
+federated environments,2177,1
+generosity,2177,1
+healthcare,2177,1
+humanist,2177,2
+humanist vision,2177,1
+information systems,2177,1
+information technology,2177,1
+medical image management,2177,1
+medical informatics,2177,2
+medical information,2177,1
+medical skills,2177,1
+molecular imaging,2177,1
+natural language processing techniques,2177,1
+ontologies,2177,1
+patients,2177,1
+pioneer,2177,1
+prof,2177,6
+protein electrophoreses,2177,1
+scherrer,2177,6
+scientific background,2177,1
+visionary mind,2177,1
+2d,2033,2
+3d,2033,5
+3d correlation,2033,1
+3d fourier transform,2033,1
+3d functions onto,2033,1
+3d signals,2033,1
+color distribution,2033,1
+color images,2033,1
+correlation,2033,5
+encode,2033,2
+fourier transform,2033,2
+optical correlator,2033,2
+consortia,237,11
+consortial values,237,1
+international coalition,237,1
+international library consortia,237,2
+key factors,237,1
+library consortia,237,5
+managerial,237,1
+movement,237,2
+organizations,237,1
+positive,237,1
+practical,237,1
+publishers,237,1
+purchasing models,237,1
+strategic,237,1
+tactical,237,1
+case study,2082,1
+dimensioning,2082,1
+improve,2082,1
+managing safety,2082,2
+market demand,2082,1
+materials,2082,2
+peak demand conditions,2082,1
+planning performance,2082,1
+quantitative manner,2082,1
+replenishment,2082,1
+requirements,2082,2
+safety stocks,2082,1
+simulation,2082,1
+stock positioning,2082,2
+strategic,2082,3
+strategic stocks,2082,3
+bayesian probability revision,2051,1
+contestant,2051,2
+historical,2051,1
+influential,2051,1
+management sciences,2051,1
+monetary decisions contestants,2051,1
+operations research,2051,1
+probability,2051,2
+sequential decision analysis,2051,1
+single decision analysis,2051,1
+statistics,2051,1
+stochastic dynamic programming,2051,1
+television,2051,1
+utility theory,2051,1
+services,2099,1
+business environment,2099,1
+firm,2099,7
+firm functions,2099,1
+firms,2099,2
+industrial,2099,1
+linear constraints,2099,1
+linear inequalities,2099,1
+linear programming problems,2099,1
+marketplace,2099,1
+mathematical programming,2099,1
+mixed programming problems,2099,1
+mixed variables,2099,1
+modelling,2099,1
+operations research approach,2099,1
+restrictions imposed,2099,1
+transportation,2099,1
+auxiliary circuitry,401,1
+direct digital modulation,401,1
+interfacing,401,1
+measured results,401,1
+supply voltage,401,1
+switching scheme,401,2
+business environment,2163,1
+business partners,2163,1
+client expectations,2163,1
+clients,2163,1
+competitiveness,2163,1
+inexorable,2163,1
+information systems function,2163,1
+integrated whole,2163,1
+law firms,2163,2
+market conditions,2163,1
+pa consulting,2163,1
+professional services firms,2163,1
+remain,2163,1
+staff,2163,1
+constraints,227,2
+distinguishability,227,2
+explicit expression relating,227,1
+imposed,227,1
+interval,227,1
+measurement,227,2
+measurement starts,227,1
+observer,227,1
+orthogonal,227,2
+orthogonal quantum states,227,1
+quantum states,227,2
+relativistic constraints,227,1
+special relativity,227,1
+conventional topological indices,278,1
+descriptors,278,8
+e configurations,278,1
+extended connectivity,278,1
+molecular connectivity indices,278,1
+molecular topology,278,2
+overall connectivity,278,1
+qsar analysis,278,2
+topological charge indices,278,1
+topological chirality descriptors,278,1
+vertex,278,1
+ghost field,1953,1
+marketing model,1953,1
+mass media,1953,3
+mass media shift,1953,1
+percolation theory,1953,1
+social percolation,1953,1
+solomon,1953,1
+stationary state,1953,1
+transition observed,1953,1
+weisbuch,1953,1
+30 related variables,2096,1
+36 dekads,2096,1
+covariance matrix,2096,1
+crop production modeling,2096,1
+dekads,2096,2
+distance measure,2096,1
+distribution,2096,2
+estimated rainfall parameters,2096,1
+food system,2096,1
+groundnuts,2096,1
+interpolation process,2096,1
+maize,2096,1
+meteorological stations,2096,2
+multivariate normal distribution consisting,2096,1
+negligible temporal correlation,2096,1
+neighbouring stations,2096,1
+observed parameters,2096,1
+rainfall data,2096,1
+rainfall records,2096,1
+random numbers,2096,1
+simulating rainfall,2096,1
+simulation model,2096,1
+small grains,2096,1
+southern africa,2096,1
+spatial correlation,2096,3
+spatial correlation structure,2096,1
+spatial rainfall simulator,2096,1
+spatial units,2096,1
+surrounding meteorological stations,2096,1
+temporal correlation,2096,2
+wards,2096,3
+zimbabwe,2096,1
+data,2193,1
+electronic whiteboard,2193,1
+independent tools,2193,1
+integrates,2193,1
+integrating,2193,1
+kimura system,2193,1
+networked peripheral devices,2193,1
+pervasive computing system,2193,1
+physical context,2193,1
+support knowledge,2193,1
+virtual,2193,1
+academic library,297,1
+blurring,297,1
+computer services,297,1
+internet,297,1
+librarianship,297,2
+library,297,4
+library accessibility,297,1
+library buildings,297,1
+online catalogs,297,1
+professionals,297,1
+systems librarian,297,3
+systems librarianship,297,1
+technology,297,1
+bitline sensing scheme,399,1
+conventional scheme,399,1
+die efficiency,399,1
+improves,399,2
+low,399,7
+low supply voltage,399,1
+memory cell,399,1
+power dissipation and compatibility,399,1
+refresh,399,1
+acetate overhead slide presentation,285,1
+cognitive load imposed,285,1
+comprehension,285,5
+educators,285,1
+facilitating,285,2
+factorial experiment,285,1
+high complexity,285,1
+information complexity,285,5
+information presentation modality combinations,285,1
+information processing,285,2
+low complexity,285,1
+low information complexity,285,1
+multimedia,285,8
+multimedia computing,285,1
+multimedia presentation,285,4
+multimedia presentations,285,2
+multimedia presentations invoke,285,1
+multimedia superiority,285,1
+optimal human,285,1
+overhead slides,285,2
+photocopier operation,285,1
+presentation media,285,1
+presentation quality,285,1
+static pictures,285,1
+sustained,285,2
+verbal,285,2
+visual working memory,285,2
+visual working memory channels resulting,285,1
+aesthetic beauty,208,1
+civic activities,208,1
+disparate,208,1
+economic development,208,1
+ecosystems,208,1
+human interaction,208,1
+internet,208,5
+internet evolves,208,1
+livable communities,208,1
+networked electronic environment design,208,1
+networked environments,208,1
+supports,208,1
+urban internet,208,1
+urbanism,208,2
+urbanism principle,208,1
+web,208,2
+web sites,208,1
+wholeness,208,1
+abstract structural analysis,207,1
+bilingual developments,207,1
+bilingual material,207,1
+bilingual web designs,207,1
+bilingual web site,207,3
+bilingual web sites,207,1
+information,207,4
+information architecture,207,3
+language therapists,207,1
+multilanguage sites,207,1
+speech,207,1
+complete stored file archive,2171,1
+deterioration,2171,1
+electronic media,2171,1
+facilitating,2171,1
+laptop,2171,1
+law society rules governing storage,2171,1
+legal files,2171,1
+online,2171,1
+paperless office some time ago,2171,1
+remote working,2171,1
+3d anatomical models,2008,1
+3d anatomical scenes,2008,1
+3d anatomical structures,2008,1
+anatomical,2008,5
+anatomy,2008,1
+building,2008,2
+database storing,2008,1
+planar oblique slices,2008,1
+record,2008,1
+server,2008,3
+students,2008,1
+visualization actions,2008,1
+web server,2008,1
+associated technique,1931,1
+bayesian approach,1931,1
+bayesian decision procedure,1931,1
+constructing,1931,1
+fuzzy,1931,6
+fuzzy bayesian method,1931,1
+fuzzy data,1931,1
+mathematical fundamentals,1931,1
+practical realization,1931,1
+pseudofuzzy quantities,1931,2
+boundedness,2137,1
+control system,2137,1
+feedback circuit,2137,1
+linear object,2137,1
+unstable continuous linear,2137,1
+algebraic model,2134,1
+circuit models,2134,1
+decision diagrams,2134,1
+linear,2134,6
+linear arithmetic polynomials,2134,1
+linear decision diagram,2134,1
+linear models,2134,1
+lineardesignmv algorithm,2134,1
+multivalued,2134,5
+multivalued components,2134,5
+nature,2134,1
+planarization,2134,1
+submicron technologies,2134,1
+vlsi circuits,2134,1
+adaptive vector channel allocation,1942,2
+broadband wireline,1942,1
+channel allocation information,1942,1
+channel estimation,1942,1
+channel spectral nulls,1942,1
+control channel,1942,1
+cyclic prefix insertion,1942,1
+fading inherent,1942,1
+frobenius norm metrics,1942,1
+heavy data rate overhead due,1942,1
+high data rate transmission,1942,1
+higher transmission quality,1942,1
+isi,1942,6
+isi channel,1942,2
+layered bit stream structure,1942,1
+lower layers,1942,1
+ofdm,1942,7
+ofdm framework,1942,1
+ofdm system,1942,3
+orthogonal frequency division multiplexing,1942,1
+precoded ofdm,1942,4
+precoded ofdm system,1942,2
+robustness,1942,1
+scalable video,1942,3
+scalable video transmission,1942,2
+severe intersymbol interference,1942,1
+simulation,1942,1
+vector channels,1942,2
+wireless channels,1942,1
+wireless systems,1942,1
+accurate,2014,1
+adaptive filtering,2014,3
+adaptive filtering method,2014,2
+adaptive spatial filtering method,2014,1
+conversion,2014,2
+edge detection,2014,1
+filter kernel,2014,1
+generated edge maps,2014,1
+hsi,2014,5
+hsi color model,2014,1
+hsi color space,2014,1
+hue components,2014,1
+hue saturation intensity,2014,2
+hue saturation intensity color space,2014,1
+image analysis,2014,1
+image processing,2014,1
+intensity,2014,3
+minimum error rate,2014,1
+noise characteristics,2014,1
+noise reduction,2014,1
+nonlinearity leads,2014,1
+nonuniform noise distribution,2014,1
+nonuniformity,2014,1
+random gaussian noise,2014,1
+rgb color model,2014,1
+rgb image,2014,1
+saturation,2014,4
+academic libraries,295,1
+academic library hours,295,1
+affecting,295,1
+arl,295,2
+arl libraries,295,1
+association,295,1
+compares,295,1
+hours of operation,295,3
+ipeds survey respondents,295,1
+libraries,295,5
+national standard,295,1
+operation,295,3
+reference hours,295,1
+service,295,3
+artificial data,269,2
+artificial data set,269,1
+chemotypes,269,1
+compound subsets,269,1
+descriptor,269,4
+descriptors,269,3
+encoded variables,269,1
+gas method,269,1
+genetic algorithm,269,3
+genetic algorithm guided selection,269,2
+given test set compound,269,1
+guided selection method,269,1
+molecular similarity,269,1
+nu,269,3
+qsar/qspr model,269,2
+selwood data set,269,1
+subset selection,269,3
+subset selection method,269,2
+subsets,269,3
+variable selection,269,3
+variable selection method,269,2
+xlogp data set,269,2
+bounded rationality,2063,2
+central hypothesis,2063,1
+emotion,2063,2
+emotional arousal,2063,1
+hanoch,2063,4
+bound sets,28,3
+computation burden,28,1
+design method,28,1
+fls,28,5
+operation,28,1
+resulting system,28,1
+simulation experiment,28,1
+uncertainty,28,2
+uncertainty bounds,28,1
+database,309,1
+dependent measures,309,1
+design,309,6
+etc,309,1
+experiment generator,309,1
+experimental designs,309,1
+graphical scales,309,1
+guided,309,1
+incomplete factorial designs,309,1
+interactive materials,309,1
+javascripts,309,1
+noncommercial,309,1
+teaching tool,309,1
+visual display,309,1
+visualizing,309,1
+web,309,9
+web experimental design,309,1
+web experiments,309,1
+web pages,309,2
+web server,309,1
+wextor,309,6
+dubious,2102,1
+evaluations,2102,1
+first process,2102,1
+information,2102,2
+internet,2102,2
+online advice,2102,3
+people,2102,4
+people's,2102,1
+personalization,2102,1
+survey,2102,1
+web design,2102,1
+convex optimization,2113,1
+exact penalty functions,2113,1
+ideal sliding mode,2113,2
+infinite number,2113,1
+sliding mode,2113,3
+alternative,2065,1
+emotion,2065,5
+emotional choice systems,2065,1
+emotional systems,2065,1
+inhibition,2065,2
+control,2122,4
+control system,2122,3
+deformable space vehicle,2122,2
+deformable space vehicles,2122,1
+digital modeling,2122,1
+discrete control system,2122,1
+discreteness,2122,1
+elastic structural vibrations,2122,1
+fuzzy logic adaptation circuit,2122,1
+bounds,348,4
+covering constructions,348,1
+homogeneous access structure,348,2
+information rate,348,3
+lower bounds,348,2
+optimal information rate,348,1
+participant,348,1
+secret sharing schemes,348,2
+combines,2115,1
+combustion processes,2115,1
+enhances,2115,1
+exhaust toxicity,2115,1
+internal combustion,2115,2
+internal combustion engine,2115,2
+operation,2115,1
+reduces,2115,1
+single process,2115,1
+steam machines,2115,1
+thermal engines,2115,1
+working processes,2115,1
+bounded time interval,2142,2
+classical frequency characteristic,2142,1
+dynamic blocks,2142,1
+linear dynamic systems,2142,1
+linear systems,2142,1
+partial spectra,2142,1
+singular functions,2142,1
+spectral characteristics,2142,2
+standard,2142,1
+transcendental characteristic equations,2142,1
+adaptation decision,2197,1
+adaptation service,2197,1
+content,2197,3
+mobile devices,2197,1
+distance,353,2
+encoded,353,3
+encoded lengths,353,1
+encoded strings,353,2
+decision analysis,2054,1
+discusses,2054,1
+formal models,2054,1
+foundation,2054,1
+framework,2054,1
+management science,2054,5
+management science skills,2054,1
+mba,2054,1
+modeling skills,2054,2
+numeracy skills,2054,1
+optimization,2054,1
+reasoning,2054,1
+simulation,2054,1
+sophisticated,2054,2
+students,2054,3
+teaching modeling,2054,1
+working hypothesis,2054,1
+applied,312,1
+children,312,2
+example,312,1
+filling,312,1
+ia matrix approach,312,1
+information architecture,312,4
+logical,312,1
+matrix,312,5
+museum information,312,1
+systematic,312,1
+target content,312,1
+web,312,3
+web portal,312,2
+deterioration,318,1
+fluctuating demand,318,2
+inflation,318,2
+optimal policy,318,2
+optimal replenishment schedule,318,2
+shortages,318,1
+average keyboard delay,306,1
+comparing,306,1
+external measurement equipment,306,1
+independent timing function,306,1
+joystick,306,2
+joystick connected,306,1
+keyboard,306,7
+keyboard delay,306,2
+keyboard model,306,1
+keyboard response delays,306,1
+keyboard scanning interval,306,1
+measured,306,1
+measuring,306,1
+microsecond level,306,1
+midi,306,1
+model,306,3
+pc,306,4
+pc keyboards,306,1
+pc models,306,1
+precision,306,1
+psychological experiments,306,1
+response devices,306,1
+sound board,306,1
+statistical processing,306,1
+ao integrals,267,1
+basis functions,267,2
+canonical mp2 energies,267,2
+coupled,267,1
+microhartree accuracy,267,1
+mp2,267,3
+parallel algorithm,267,2
+serial algorithm,267,1
+synchronization delays,267,1
+conical constraints,2123,1
+conical control constraints,2123,1
+convexity,2123,2
+hidden,2123,2
+hidden convexity,2123,2
+abb,2156,1
+automatic assembly,2156,1
+car production line,2156,1
+car windshield assembly,2156,1
+environmental specifications,2156,1
+fabrication,2156,1
+increases,2156,1
+laminated windshields,2156,1
+manufacturing expertise,2156,1
+pane relief,2156,1
+perfect,2156,2
+robotic solutions,2156,1
+speeds,2156,1
+vinyl interlayer,2156,1
+windshield,2156,4
+windshields,2156,2
+asynchronous message passing,247,1
+computer networks,247,3
+concurrent distributed algorithm,247,1
+congenial talking,247,3
+congenial talking philosophers,247,3
+data on,247,2
+disc,247,5
+distributed systems,247,1
+exclusion,247,4
+group mutual exclusion,247,2
+mutual,247,4
+mutual exclusion,247,4
+occurs,247,1
+problem,247,4
+resource,247,1
+severe performance,247,1
+shared memory,247,2
+shared memory models,247,1
+vice versa,247,1
+advances,298,1
+advertisements,298,2
+american libraries,298,1
+content analysis,298,1
+electronic librarian,298,2
+electronic librarianship,298,1
+electronic resources librarians,298,1
+electronic services librarians,298,1
+expert knowledge,298,1
+job,298,2
+librarianship,298,2
+organizational,298,1
+qualifications,298,1
+salary information relating,298,1
+technology create,298,1
+within,298,2
+benchmark problem,25,1
+er,25,8
+evolving,25,3
+fuzzy rules,25,1
+incremental unsupervised learning,25,1
+installation,25,1
+modeling,25,2
+neural networks,25,1
+noniterative update,25,1
+ranking,25,1
+real building,25,1
+viability,25,1
+auditory information processing,199,1
+cochlear nucleus,199,1
+constant quiescent firing rate,199,1
+detection,199,1
+dissimilarity,199,1
+fundamental limits,199,1
+hair cell,199,1
+information processing performance,199,1
+information theory,199,1
+mammalian auditory system,199,1
+optimal processing,199,1
+optimal value,199,1
+optimality,199,1
+overall,199,1
+peripheral auditory system,199,1
+phi,199,2
+probability measures,199,1
+qfr,199,4
+small,199,1
+spiral ganglion neuron,199,1
+statistics,199,2
+synaptic connection,199,1
+synaptic depression,199,1
+weak sinusoidal signals,199,1
+commercial,1989,2
+commercial embarrassment,1989,1
+corporate systems,1989,1
+fines,1989,1
+formal risk management framework,1989,1
+increasingly required,1989,1
+management services,1989,1
+managing,1989,1
+regulators,1989,1
+sanctions,1989,1
+security risks,1989,1
+security standards,1989,1
+senior business managers,1989,1
+alternative,2129,1
+constants,2129,2
+exponential functions,2129,2
+function parameters,2129,1
+functions,2129,3
+independent constants,2129,1
+integration range,2129,3
+nontrigonometrical polynomials,2129,1
+universal decomposition,2129,1
+additive scheme,1992,1
+classical,1992,2
+content descriptor,1992,1
+correlation properties,1992,1
+counter,1992,1
+delaunay tessellation,1992,1
+detection,1992,2
+digital images providing robustness,1992,1
+embedding,1992,2
+enhanced detector,1992,1
+feature points,1992,3
+finally,1992,1
+geometrical,1992,7
+geometrical distortions,1992,4
+geometrical transformations,1992,1
+geometrically invariant watermarking,1992,1
+global transformations,1992,1
+image content,1992,1
+invariant properties,1992,1
+jpeg compression,1992,1
+local transformations,1992,1
+manipulations,1992,1
+mark,1992,10
+periodical properties,1992,1
+robustness,1992,2
+rotations,1992,1
+salient points,1992,1
+signature,1992,1
+stirmark,1992,1
+template insertion,1992,1
+thereafter,1992,1
+theses,1992,1
+transformations,1992,4
+translations,1992,1
+watermarking,1992,5
+watermarking methods,1992,1
+watermarking schemes,1992,1
+adverse effects,2020,1
+approximately constant reflectivities,2020,1
+blazed phase grating,2020,1
+broadband imagery steered,2020,1
+broadband imaging system,2020,1
+chromatic aberrations,2020,1
+diffraction order,2020,1
+digital image restoration technique,2020,1
+dispersion,2020,1
+experimental results,2020,1
+gimbals,2020,1
+image plane,2020,2
+imaging,2020,2
+incident wavelengths,2020,1
+liquid crystal optical phased array,2020,1
+nematic liquid crystal optical phased array,2020,1
+nonmechanical device,2020,1
+postprocessing technique,2020,1
+spectral,2020,1
+wiener deconvolution filter,2020,1
+abstract scenario,326,2
+accurate,326,1
+explaining,326,1
+explicit instructions,326,2
+explicit instructions concerning,326,2
+frequent event,326,1
+horse,326,3
+horse race scenario,326,1
+javascript,326,3
+lab tended,326,1
+monetary sum,326,1
+optimal strategy,326,3
+performance,326,4
+probability information,326,1
+race versus abstract scenario,326,1
+suboptimal performance,326,1
+web,326,3
+web experiments,326,1
+winner,326,1
+2/,400,1
+embedded dram macros,400,2
+embedded memory logic technology,400,1
+low power consumption,400,1
+mobile,400,1
+pda chip,400,1
+rendering logic,400,1
+runtime reconfigurable bus,400,2
+behavioral defects,2131,1
+closed heat consumption system,2131,1
+heat systems,2131,2
+physical defects,2131,1
+technical,2131,2
+technical state,2131,2
+acceleration corresponding,378,1
+incremental motion control,378,2
+incremental motion control problem,378,1
+linear synchronous motor,378,2
+magnet linear synchronous motor,378,1
+motor dynamics,378,1
+multisegment,378,2
+multisegment switching surfaces,378,1
+servo drive system,378,2
+sliding mode control,378,1
+trapezoidal velocity profile,378,3
+business forward,1988,1
+eai,1988,1
+enterprise application integration,1988,1
+imark communications,1988,1
+integration,1988,2
+justin,1988,1
+opie,1988,1
+portfolio director,1988,1
+software applications,1988,1
+460 compounds,275,1
+computational model,275,1
+data,275,1
+descriptor allowed,275,1
+descriptors,275,3
+descriptors producing,275,1
+diverse,275,1
+high performance liquid chromatography,275,1
+hplc,275,1
+integrated uv absorbance,275,1
+integration,275,1
+organic chemistry,275,1
+organic compounds,275,1
+organic molecules,275,1
+physical nature,275,1
+r/sup 2/,275,1
+reaction products,275,1
+relative response,275,1
+robust model,275,1
+spectrophotometric detection,275,1
+squared correlation coefficient,275,2
+ultraviolet,275,2
+ultraviolet spectral absorbance using,275,1
+uv absorption process,275,1
+zindo oscillator strengths,275,1
+coding properties,200,1
+competition,200,2
+computational advantages,200,1
+influential,200,1
+lateral inhibition,200,4
+lateral inhibition enhances,200,1
+neural network architecture,200,3
+neural network architectures,200,2
+neuropsychological data,200,1
+perceptual representations,200,1
+postintegration lateral inhibition,200,1
+preintegration,200,3
+representations,200,2
+unsupervised learning,200,1
+business managers,335,1
+ibm,335,2
+ibm internship program,335,1
+mba students,335,1
+technology,335,1
+appended states,2001,1
+graphic approach,2001,1
+independent subsets,2001,1
+measurement models,2001,1
+observer decomposition,2001,1
+physical system,2001,1
+sparse system models,2001,1
+strategically,2001,1
+systematic procedure,2001,1
+visual,2001,1
+approximation,24,2
+conjunction operations,24,5
+conjunctions,24,1
+fuzzy modeling,24,2
+fuzzy modeling based,24,2
+fuzzy models,24,2
+generalized conjunction operations,24,2
+membership,24,2
+membership functions,24,2
+parametric classes,24,1
+parametric conjunction operations,24,1
+parametric generalized conjunction operations simpler,24,1
+tuning,24,5
+decentralized pid loops,34,1
+feedback interconnection,34,1
+genetic algorithm,34,3
+genetic algorithms,34,2
+mrcd,34,1
+multiobjective genetic algorithms,34,1
+multiobjective optimization,34,1
+multiobjective problem,34,1
+multiobjective robust control design,34,1
+multivariable coupled,34,1
+pid controller,34,3
+tradeoff,34,1
+average transfer rate,387,1
+bci,387,1
+buttons,387,3
+buttons illuminated,387,1
+computer monitor,387,1
+enter,387,1
+high information transfer rate,387,1
+high transfer rates,387,1
+mobile phone,387,1
+virtual telephone keypad,387,1
+boundedly rational firms,2068,1
+decentralized setting,2068,1
+demographic groups,2068,1
+endogenously evolving institution,2068,1
+evolving institution,2068,2
+gross flows,2068,1
+hiring standards,2068,1
+increase utility,2068,1
+integration,2068,1
+jobs,2068,2
+labor market,2068,4
+large firms,2068,1
+mobility patterns,2068,1
+search process,2068,1
+spectacular changes,2068,1
+stylized french,2068,1
+temporary,2068,1
+civil applications,2013,1
+denoising algorithm,2013,1
+noise pattern,2013,1
+noise sensitivity,2013,1
+optical experiment,2013,1
+positioning accuracy,2013,2
+randomness,2013,1
+superresolved position estimation,2013,1
+tracking systems,2013,1
+canonical decomposition apparatus,1937,1
+investigated process,1937,1
+mixed central moment functions,1937,1
+moment function,1937,2
+nonlinear extrapolation,1937,3
+nonlinear extrapolation algorithm,1937,2
+realization,1937,1
+scalar random process,1937,1
+boundary element design,2081,1
+boundary element method,2081,1
+boundary integral sensitivity formulations,2081,1
+cavity temperature distributions,2081,1
+cooling lines,2081,4
+cooling stage,2081,1
+design sensitivity analysis,2081,2
+injection moulding,2081,1
+injection moulds,2081,1
+iterative algorithm,2081,1
+objective function,2081,2
+optimization techniques,2081,1
+optimum,2081,3
+sensitivity analysis,2081,2
+squared difference,2081,1
+adobe golive,251,2
+central hub for design assets,251,1
+collaboration server,251,1
+comprehensive workgroup,251,1
+golive,251,2
+gui environment combined,251,1
+leading design tools,251,1
+plus,251,1
+tight integration,251,1
+web authoring,251,1
+computer articulating,209,1
+content,209,3
+information architecture,209,4
+information interaction,209,2
+information interactivity,209,2
+information system,209,1
+navigational,209,1
+user,209,2
+biggest selling,373,1
+computing power,373,1
+digitizing tablet,373,1
+general specifications,373,1
+handheld computers,373,1
+microsoft,373,2
+microsoft corp,373,1
+pc operating system,373,1
+pdas,373,1
+personal digital assistants,373,1
+recognized,373,1
+tablet pc,373,4
+tablet pcs,373,3
+bayesian nonstationary autoregressive models,389,1
+biomedical signal analysis,389,1
+electroencephalogram data,389,1
+frequency domain characterization,389,1
+linear dynamical system,389,1
+multivariate autoregressive model,389,1
+nonstationary multivariate signals,389,1
+photic synchronization scenarios,389,1
+real,389,1
+variational bayesian algorithm,389,1
+controller,21,1
+discrete output feedback sliding mode control,21,2
+extraneous,21,1
+fast output sampling feedback guarantees,21,1
+initial,21,3
+initial conditions,21,2
+low,21,1
+moving switching,21,4
+moving switching line,21,4
+output samples,21,1
+parameter,21,1
+reaching phase,21,2
+second,21,2
+sensitivity system,21,1
+simulation,21,1
+sliding,21,4
+sliding mode control systems,21,1
+smcs,21,1
+state feedback,21,1
+switching,21,7
+switching variable,21,1
+system states,21,1
+bipartite graph,354,1
+hamiltonian path,354,2
+hypercube q/sub n/,354,1
+partite set,354,3
+partite sets,354,1
+q/sub,354,3
+bms,1946,4
+building facilities management,1946,1
+building management system,1946,2
+building management systems,1946,1
+database integration,1946,1
+dcom,1946,1
+distributed component object model,1946,1
+embedded web server,1946,1
+facilities management,1946,4
+facilities management systems,1946,2
+fms,1946,2
+infrastructures,1946,1
+integrates,1946,1
+integrating,1946,2
+integrating control networks,1946,1
+internet,1946,8
+internet protocols,1946,1
+internet/intranet,1946,3
+open control network,1946,2
+pc,1946,1
+software development,1946,1
+technical,1946,1
+web server,1946,2
+collaborative approach,2159,1
+core competencies,2159,1
+discrete manufacturing,2159,1
+inventories,2159,1
+noncore,2159,1
+optimize,2159,1
+outsourcing,2159,1
+producers,2159,1
+production,2159,3
+scheduling,2159,1
+subsuppliers,2159,1
+throughput,2159,1
+working capital,2159,1
+coil tuning,1982,1
+compensation,1982,1
+describe,1982,1
+distribution network resonant grounding systems,1982,1
+distribution systems,1982,1
+fault detection,1982,1
+regard,1982,1
+resfal,1982,1
+resonant grounding,1982,2
+software tool,1982,1
+verifying,1982,1
+iterative,2138,1
+multistep control processes,2138,2
+optimal control,2138,1
+reachability set,2138,2
+reachability sets,2138,1
+restriction,2138,1
+upper estimate,2138,1
+describe,1983,1
+energy utilities,1983,1
+engineers,1983,1
+inherent requirements,1983,1
+insight,1983,1
+power electronics spark,1983,1
+power systems,1983,1
+simulation challenges,1983,1
+simulation technologies,1983,1
+sustain,1983,1
+system dynamics,1983,1
+data blocks,352,3
+disk stripping techniques,352,1
+lower disk,352,1
+lower time complexity,352,1
+maximum load,352,1
+mfs algorithm,352,1
+optimal solutions,352,1
+ram costs,352,1
+randomly,352,1
+rda,352,1
+retrieval selection algorithm,352,1
+retrieval selection problem,352,1
+rsp,352,3
+video data,352,1
+video servers,352,1
+archivists,260,2
+curators,260,2
+descriptive,260,1
+digital archives,260,1
+digital collections,260,1
+virtual collections,260,5
+18,1966,1
+analysis,1966,4
+canadian dollar,1966,1
+dynamical behaviours,1966,1
+euro zone,1966,2
+european monetary system currency exchanges,1966,1
+foreign,1966,1
+high correlation,1966,1
+nonexistence,1966,1
+nonlinear time,1966,2
+nonlinear time series analysis techniques,1966,1
+quantification analysis,1966,1
+quantification of recurrence plots,1966,1
+recurrence,1966,2
+singularities,1966,1
+stationarity,1966,1
+strong,1966,1
+us dollar,1966,1
+academic,301,3
+academic libraries,301,3
+academic libraries serving,301,1
+broader,301,2
+campus,301,2
+community,301,6
+community building,301,1
+distance education,301,1
+public libraries,301,1
+adaptive image denoising using,1976,1
+edge preservation,1976,1
+geometric constraints,1976,1
+gradient magnitudes,1976,1
+image denoising,1976,3
+image edges,1976,1
+image multiresolution decomposition,1976,1
+image noise,1976,1
+image presegmentation,1976,1
+modeled,1976,1
+preserve,1976,3
+probabilistically,1976,1
+redundant wavelet transform,1976,1
+scale,1976,2
+shrinkage function,1976,2
+shrinkage functions,1976,1
+space consistency,1976,1
+wavelet coefficients,1976,1
+wavelet domain,1976,1
+whilst,1976,1
+dea,2174,4
+disposable,2174,1
+mailshell,2174,3
+spam solution,2174,1
+analysis program,286,1
+automatic data exchange,286,1
+computationally demanding application,286,1
+custom,286,1
+data analysis,286,4
+data analysis routines,286,1
+data analysis software,286,1
+grams,286,1
+linear discriminant analysis,286,1
+matlab,286,1
+modular design providing,286,1
+multivariate,286,1
+necessary signal processing,286,1
+principal component analysis,286,1
+raman spectra,286,2
+skin spectra,286,1
+software package,286,1
+spectroscopic data acquisition,286,1
+vivo raman spectra,286,1
+vivo raman spectroscopy,286,1
+approval voting,2038,2
+borda count,2038,2
+plurality voting,2038,2
+rating,2038,1
+third option,2038,2
+voters,2038,3
+doubly addictive,2103,1
+gambling,2103,8
+gambling globally,2103,1
+gambling practices,2103,1
+internet,2103,6
+internet gambling,2103,5
+limited,2103,1
+market opportunities,2103,1
+offline,2103,1
+social impact,2103,1
+technological developments,2103,1
+bayesian approach,2037,1
+bayesian method allowing,2037,1
+considers,2037,1
+correlations,2037,1
+data,2037,1
+linear regression parameters,2037,1
+linear regression problems,2037,1
+pseudoinverse method,2037,1
+pseudoinversion,2037,1
+regularization method,2037,1
+regularizing,2037,1
+robust estimation,2037,1
+amf algorithms,383,1
+censoring algorithms,383,1
+censoring methods,383,1
+computer simulations,383,1
+covariance matrix estimate,383,1
+desired steering vector,383,1
+fast maximum likelihood,383,2
+fml,383,4
+fml algorithms,383,1
+maximum likelihood estimation,383,1
+mle solution,383,1
+outlier data vectors,383,2
+outlier scenarios,383,1
+outliers,383,3
+reiterative censored fast maximum likelihood,383,1
+relative effectiveness,383,1
+sample matrix inversion,383,1
+stressful,383,1
+underlying covariance matrix,383,1
+unknown,383,1
+asymptotic probabilistic stability,2125,1
+deterministic systems,2125,1
+general markov process,2125,1
+nonlinear systems,2125,1
+perturbed motion,2125,1
+phase trajectory,2125,1
+phase vector,2125,1
+probabilistic stability,2125,2
+random jump,2125,4
+random jumps,2125,3
+respective,2125,1
+stability,2125,7
+stochastic systems,2125,2
+suffers random jumps,2125,1
+system,2125,7
+graphs,1940,1
+lower bounds,1940,2
+customers,2046,1
+designing,2046,1
+e g,2046,2
+engineering,2046,1
+error experimentation,2046,1
+graduate education,2046,1
+individuals,2046,1
+instructors,2046,2
+involving trial,2046,1
+management faculties,2046,1
+management perspective,2046,1
+operations,2046,1
+students,2046,1
+teaching,2046,3
+teaching experience,2046,1
+university course,2046,2
+asset,1954,1
+asymptotic distribution theory,1954,1
+asymptotic properties,1954,1
+asymptotic values,1954,1
+confidence intervals,1954,2
+detrended fluctuation analysis,1954,1
+dfa statistics,1954,1
+empirical,1954,1
+estimators,1954,1
+financial economics,1954,1
+finite sample properties,1954,1
+gaussian white noise,1954,1
+heuristic values,1954,1
+periodogram regression method,1954,2
+periodogram regression methods,1954,1
+r/s analysis,1954,1
+r/s statistics,1954,1
+simulated,1954,1
+statistics,1954,3
+test,1954,2
+100th,2153,2
+100th robotic containerization system installed,2153,1
+abb,2153,3
+abb rcs,2153,1
+abb robots,2153,1
+accuracy,2153,1
+columbus,2153,1
+containerizing mail,2153,1
+distribution center,2153,1
+growing,2153,1
+machine tending,2153,1
+material handling,2153,1
+packages,2153,1
+palletizing,2153,1
+picking,2153,1
+portfolio,2153,1
+rcs,2153,3
+robot containerization system,2153,1
+sorting,2153,2
+speed,2153,1
+spot welding,2153,1
+united states postal service,2153,1
+us mail sorting center,2153,1
+usps processing,2153,1
+action,280,2
+america,280,1
+compliance,280,1
+control,280,1
+creative,280,1
+efficacy,280,1
+elementary school,280,1
+entrepreneurial instincts,280,1
+entrepreneurs,280,2
+internet,280,1
+learning,280,1
+program,280,3
+student,280,2
+students,280,1
+traditional,280,2
+university level courses,280,1
+ages,329,1
+corroboration,329,1
+credible information requires,329,1
+document level literacy skills,329,1
+educational web sites,329,1
+falsehood,329,1
+innuendo,329,1
+integration,329,1
+literacy,329,2
+outright,329,1
+publishing information,329,1
+search,329,2
+sourcing,329,1
+students,329,1
+urban legend,329,1
+web,329,5
+web site design,329,1
+world wide web,329,1
+adaptive robust stabilization,20,1
+adaptive robust state feedback control,20,2
+adaptive robust state feedback controller,20,1
+adaptive state feedback control,20,1
+asymptotically stable,20,1
+control scheme,20,2
+disturbance,20,2
+linear systems,20,1
+moreover,20,1
+nonlinear uncertainties,20,1
+simulations,20,1
+uncertain dynamical systems,20,1
+uncertainties,20,3
+unknown bounds,20,1
+community,344,1
+continuous improvement,344,1
+delivering,344,1
+faculty,344,2
+insight,344,3
+insights,344,2
+or/ms practice,344,1
+or/ms tools,344,1
+research,344,1
+student consulting projects,344,2
+students,344,2
+teaching,344,2
+adjacent cell vacancy,1960,1
+burst sizes,1960,1
+cellular automata,1960,1
+confined pedestrians,1960,1
+diffusive behavior,1960,1
+disruptive interference,1960,2
+disruptive interference effect,1960,1
+door number,1960,1
+exit dynamics,1960,2
+exit throughput q,1960,1
+exit widths w,1960,1
+jamming,1960,1
+pedestrian could,1960,1
+pedestrians,1960,6
+pedestrians crossing,1960,1
+pedestrians exited,1960,1
+physical capability relative,1960,1
+relaxed pedestrians,1960,1
+streaming,1960,2
+arbitrary,2009,2
+arbitrary cuts,2009,1
+aspect ratios,2009,1
+cut path,2009,2
+cutting tool,2009,1
+disconnected mesh structure,2009,1
+generalized cutting scheme,2009,1
+generalized interactive mesh cutting,2009,1
+interactive mesh cutting,2009,2
+layered surface,2009,1
+loop cautery tool,2009,1
+primitive removal,2009,1
+primitives,2009,4
+primitives created,2009,2
+tetrahedral objects,2009,1
+virtual object,2009,1
+virtual scalpel,2009,1
+virtual tools,2009,1
+academic,2052,1
+blitzograms,2052,1
+computers,2052,1
+crystal ball,2052,1
+histograms,2052,2
+interactive histograms,2052,1
+iterative,2052,1
+probability distributions,2052,1
+simulation,2052,1
+tacit understanding,2052,1
+ac system,2188,1
+active power,2188,1
+adjacent generators,2188,1
+affine,2188,1
+control variable,2188,1
+dc links terminated,2188,1
+differential geometric theory,2188,1
+generator dynamic equations,2188,1
+global linearization method,2188,1
+hvdc systems,2188,2
+hybrid ac/dc power systems,2188,1
+hybrid ac/dc system,2188,1
+inverter,2188,1
+large disturbances,2188,1
+modulated dc power,2188,1
+nonlinear control strategy,2188,1
+nonlinear modulation strategy,2188,1
+rectifier ac bus,2188,1
+transient stability,2188,1
+variable admittance,2188,3
+variable admittance connected,2188,1
+1999/93/ec,2164,1
+certification service providers,2164,1
+electronic,2164,3
+electronic signatures,2164,3
+eu,2164,2
+european electronic signatures directive,2164,1
+legal framework,2164,1
+unconvincing,2164,1
+area,1948,1
+collective dose calculations,1948,1
+collective dose provides,1948,1
+electronic population data resources,1948,1
+estimating populations,1948,1
+facility operations,1948,1
+geographic information system software,1948,1
+personal computer,1948,1
+population,1948,4
+population within,1948,1
+adaptative distance map,1996,1
+cielab1976 color space,1996,1
+complex images,1996,1
+digital simulations,1996,1
+global value,1996,1
+image quality,1996,1
+image rendering processes,1996,1
+llab color space,1996,1
+local distance map,1996,1
+metric associates,1996,1
+metrics,1996,3
+perception,1996,1
+perceptual color differences,1996,1
+perceptually based metrics,1996,1
+pixel,1996,2
+pixel metric,1996,1
+quality image metrics,1996,1
+quantitative,1996,1
+recursive subdivision,1996,1
+rougher,1996,1
+synthetic color images,1996,1
+synthetic images,1996,1
+visual quality,1996,1
+algebraic properties,2161,1
+b1,2161,5
+b2,2161,5
+beth properties,2161,1
+beth property,2161,1
+boolean case,2161,1
+c2,2161,2
+classical case,2161,1
+classical modal case,2161,1
+implies,2161,1
+independent,2161,1
+interpolation properties c1,2161,1
+intuitionistic modal logic,2161,3
+intuitionistic modal logics,2161,2
+controllability,1997,2
+controllability result,1997,1
+fourier method,1997,1
+minimal time,1997,1
+shells,1997,1
+thin cups,1997,1
+cash,3,2
+market,3,2
+nuvox,3,2
+nuvox communications positions,3,1
+says,3,1
+telecom market,3,1
+brief,2042,1
+cylindrical plasma source,2042,1
+electromagnetic hybrid model,2042,1
+hybrid simulation,2042,4
+magnetic,2042,3
+magnetized plasma flow,2042,1
+magnetopause shear layer,2042,1
+massless fluid,2042,2
+massless fluid representation,2042,1
+medium,2042,1
+numerical schemes,2042,1
+particle mixing,2042,1
+pressure anisotropy,2042,1
+shear region,2042,1
+space plasmas,2042,1
+tangential discontinuity,2042,1
+transition layer,2042,1
+velocity,2042,1
+zero own magnetic field,2042,1
+compensates,1998,1
+compensator,1998,2
+control action,1998,1
+control error,1998,1
+control signal,1998,1
+control systems,1998,1
+friction compensator,1998,1
+industrial controllers,1998,1
+pneumatic control valves,1998,2
+pulses,1998,2
+standard,1998,1
+static friction,1998,1
+evpi,2049,4
+maximum expected value of,2049,1
+maximum possible evpi,2049,1
+partial information,2049,1
+perfect information,2049,1
+probability distribution,2049,1
+states of,2049,2
+acquisitions,2061,2
+bell library,2061,1
+collections materials,2061,1
+commentary,2061,1
+electronic revolution,2061,1
+ford,2061,1
+noted special collection,2061,1
+basis functions,1978,2
+basis functions complement,1978,1
+bitrate,1978,1
+cascade,1978,1
+coherent layers,1978,1
+compressed layers,1978,1
+compressions applied,1978,1
+etc,1978,1
+image,1978,9
+image compression,1978,2
+image representation,1978,2
+image representation,1978,2
+images,1978,1
+local transients,1978,1
+lossy,1978,1
+multilayer approach,1978,1
+multilayered,1978,4
+multilayered decomposition algorithm,1978,1
+multilayered representation,1978,2
+multilayered representation technique,1978,1
+oscillatory patterns,1978,1
+paradigm,1978,1
+piecewise smooth regions layer,1978,1
+residual,1978,3
+residual part,1978,2
+residuals,1978,1
+significant structures,1978,1
+sparse representation,1978,1
+superposition,1978,1
+textures layer,1978,1
+video coding,1978,1
+collecting,2062,1
+culture,2062,1
+immersion,2062,1
+librarian,2062,1
+library collections,2062,1
+literature,2062,1
+local focus,2062,1
+poetry,2062,6
+total,2062,1
+underground poetry,2062,4
+unique publishing,2062,1
+automated microseparation technique,228,1
+capillary gel electrophoresis,228,1
+combines,228,1
+computerized,228,1
+data analysis,228,2
+dna,228,3
+electrophoresis process,228,1
+enabling rapid,228,1
+ethidium,228,1
+expression profiling require affordable,228,1
+genotyping,228,1
+human intervention,228,1
+integrated scanning,228,1
+mapping,228,1
+microwell polymerase chain,228,2
+migratio,228,1
+minute quantities,228,1
+pcr,228,3
+reagents,228,1
+resulting products,228,1
+sample loading robots,228,1
+submicroliter size pcr reaction,228,1
+canadian healnet,2179,1
+canadian network,2179,1
+care maps,2179,1
+centres,2179,1
+collaborative research,2179,1
+consumer health informatics,2179,1
+content,2179,1
+delivery modes,2179,1
+etc,2179,1
+excellence,2179,1
+health care consumers,2179,1
+health promotion,2179,1
+health services,2179,1
+healthcare practices,2179,1
+internet,2179,4
+personal health,2179,1
+require,2179,2
+services provided,2179,2
+subjective review,2179,1
+systems incorporating guidelines,2179,1
+adaptive technique,33,1
+centralized,33,1
+control concept,33,1
+decoupler,33,2
+decoupling unit,33,1
+feedback control,33,1
+fuzzy control,33,3
+interacting loop changes,33,1
+loop controller,33,1
+loop fuzzy controllers,33,1
+loop interactions,33,1
+modifies,33,1
+multivariable process,33,2
+multivariable process systems,33,1
+simulation model,33,1
+single,33,2
+associated with motion,405,1
+background knowledge,405,1
+etc,405,1
+ilp,405,2
+ilp system,405,1
+inductive logic programming,405,2
+inductive logic programming system,405,1
+learning spatial relations,405,1
+orientation,405,1
+prerequisite,405,1
+proper,405,1
+spatial knowledge,405,1
+spatial relations,405,2
+atomistic resolution,266,1
+characteristic local features,266,1
+electrostatic potential,266,1
+fuzzy set theory,266,1
+hydrogen,266,1
+local lipophilicity/hydrophilicity,266,1
+molecular complementarity,266,1
+molecular properties,266,1
+molecular surfaces,266,2
+partial similarities,266,1
+patch representation,266,1
+topographical properties,266,1
+finite state markov chain,376,1
+hybrid systems,376,1
+intuitive,376,1
+maneuvering target tracking,376,1
+marginal posterior distribution,376,1
+multiple switching models,376,1
+performance,376,1
+random transition probabilities,376,1
+recursive hybrid state estimation schemes,376,1
+recursive state estimation,376,1
+regime variable,376,3
+states and regime variables,376,1
+transition probabilities,376,3
+unknown,376,2
+accreditation schemes,217,1
+job applicant,217,1
+networking,217,1
+practical,217,1
+vendor qualifications,217,1
+automation,2114,2
+complex structures,2114,1
+hardware components,2114,1
+interruption,2114,1
+recovery,2114,2
+serviceability recovery,2114,1
+geographic proximity,361,1
+minimal closed subsets,361,1
+population,361,1
+pretopological approach,361,1
+pretopological concepts,361,2
+sample settings,361,1
+structural analysis,361,4
+structural analysis algorithm,361,2
+fulfillment system suppliers,230,1
+publication software packages,230,1
+publishing,230,1
+ambit,2168,1
+cybercrime convention,2168,1
+english criminal law,2168,1
+internet sites,2168,1
+law,2168,2
+limited areas,2168,1
+wales,2168,1
+widespread,2168,1
+action,2095,6
+amplitude oscillations,2095,1
+asymptotically unbounded solutions,2095,1
+attracting set,2095,2
+bifurcation,2095,2
+branched biochemical system,2095,1
+canard explosion,2095,1
+collapse,2095,1
+differential equations,2095,1
+dynamical system,2095,1
+enzymatic reactions,2095,1
+global bifurcation,2095,1
+global stability,2095,1
+large,2095,2
+large amplitude,2095,2
+limit cycles corresponds,2095,1
+maximum enzyme activities,2095,1
+metabolite concentration,2095,1
+modulating,2095,1
+nonlinear dependency,2095,1
+nonnegative data,2095,1
+saddle connection,2095,1
+saturation kinetics,2095,1
+stable limit cycles occurs,2095,1
+system coordination,2095,2
+systems,2095,1
+ahp,215,4
+analytic hierarchy process,215,1
+benefits,215,2
+combining,215,1
+conceptual framework,215,2
+decision,215,3
+decision maker,215,1
+deriving data,215,1
+evaluation,215,6
+evaluation process,215,2
+gahp,215,2
+goal programming methodology,215,1
+information requirements,215,1
+information technology,215,3
+information technology investments,215,1
+intangible,215,2
+integer goal linear programming,215,1
+mixed integer constraints,215,1
+nonmonetary,215,1
+organisation,215,1
+pairwise comparison mechanisms,215,1
+risks factors,215,2
+selection decision,215,1
+strategic implications,215,1
+subjective,215,1
+technology managers,215,1
+behavior,210,1
+compared,210,1
+copnet,210,6
+database systems,210,1
+easy,210,1
+enforcement personnel,210,1
+evaluations,210,2
+graphical user interface,210,1
+information architecture,210,2
+interface,210,4
+law enforcement agency,210,2
+legacy system,210,1
+navigation,210,4
+nonexperts,210,1
+older,210,4
+older system,210,3
+rms,210,5
+rms experts,210,1
+switching,210,1
+systems design,210,1
+usability,210,2
+user studies,210,1
+confidential information,2109,1
+dependent variable,2109,1
+don'ts,2109,3
+dropout,2109,2
+internet experiment,2109,1
+internet's technical variance,2109,1
+motivational confounding,2109,1
+placement,2109,1
+public access,2109,1
+revealing,2109,2
+deterministic noise,289,1
+dynamical neural network model,289,1
+dynamical patterns,289,2
+entorhinal cortex,289,1
+external inputs,289,1
+hippocampus,289,2
+ion channels,289,1
+memory,289,4
+memory recall,289,4
+neural network model,289,2
+noise,289,7
+noise effect,289,4
+numerical simulations,289,1
+operation,289,1
+stochastic noise,289,1
+stochastic phenomena,289,1
+strength,289,1
+synaptic clefts,289,1
+3d,2004,4
+3d represents,2004,1
+deformable surface,2004,2
+deformable surfaces,2004,1
+haptic device,2004,1
+interactive 3d volume segmentation,2004,1
+interactive segmentation,2004,1
+manual initialization,2004,1
+medical 3d volume data,2004,1
+sensory feedback,2004,1
+tubular structure,2004,1
+absolute moment btc,2029,1
+bit plane,2029,5
+bit plane coding strategies,2029,1
+bit plane overhead,2029,2
+bits/pixel,2029,3
+block,2029,2
+btc,2029,4
+btc coding,2029,1
+compression ratio,2029,1
+compression schemes,2029,1
+computational burden,2029,1
+conventional,2029,1
+decoded quality,2029,1
+discrete cosine transform,2029,1
+fast,2029,1
+image compression technique,2029,1
+lena,2029,1
+quantization values,2029,1
+truncation coding,2029,1
+truncation image bit plane coding,2029,1
+vector quantization,2029,1
+vq,2029,1
+wavelet transform coding,2029,1
+wtc,2029,1
+3000 firewall,219,1
+firewall card shields data,219,1
+large networks,219,1
+pci card saves,219,1
+slotshield,219,1
+costs,320,3
+extensive example,320,1
+managerial implications,320,1
+manufacturer,320,4
+normal approximation,320,1
+product failure within,320,1
+protection level,320,1
+single,320,2
+stochastic sales process,320,1
+variance,320,2
+warranty,320,9
+warranty cost,320,3
+warranty costs,320,2
+warranty reserve fund created,320,1
+warranty reserves,320,2
+optimisation techniques,2166,2
+passing,2166,1
+reed,2166,5
+trade,2166,2
+trade mark infringement,2166,2
+web sites,2166,2
+aliasing,2091,1
+alternating minimization,2091,1
+am image reconstruction,2091,1
+am images,2091,1
+attenuation map,2091,1
+computer simulations,2091,1
+ct detector,2091,2
+ct detector model,2091,1
+deterministic iterative deblurring,2091,1
+exhibit severe artifacts,2091,1
+fbp,2091,3
+foreign metal bodies using,2091,1
+includes,2091,1
+iterative algorithm,2091,1
+measurement noise,2091,1
+metal artifacts,2091,2
+metal foreign objects,2091,1
+metal object,2091,2
+metal objects,2091,1
+noise,2091,2
+patient,2091,3
+patients bearing metal intracavitary applicators,2091,1
+physical process,2091,1
+polyenergetic spectra,2091,1
+polyenergetic spectrum,2091,1
+quantitative computed tomography imaging,2091,1
+quantitative estimation,2091,1
+scattered radiation,2091,1
+signal acquisition,2091,1
+streaking artifacts,2091,1
+streaks,2091,1
+tissue attenuation coefficients,2091,1
+activated periodically,375,1
+adaptive,375,3
+adaptive beamforming,375,1
+adaptively separating,375,1
+capability,375,1
+desired signal,375,1
+electromagnetic vector sensor,375,2
+emvs,375,1
+multiple broadband sources,375,1
+numerical examples,375,1
+parallel implementation,375,1
+parallel spatial processors,375,1
+preprocessing,375,2
+priori information,375,1
+processing,375,3
+redesign,375,1
+separation,375,1
+snr,375,2
+source parameter estimates,375,1
+source trackers,375,2
+spatial processor,375,2
+stage,375,3
+tracking,375,3
+uncorrelated sources,375,1
+alienation,2070,1
+firm,2070,2
+modular design,2070,1
+modularity,2070,2
+modularity theory,2070,1
+nonmodular structures,2070,1
+organization,2070,3
+organizations,2070,2
+paper,2070,1
+property rights,2070,1
+residual claims,2070,1
+technology,2070,1
+communication medium,2116,1
+computational clusters,2116,1
+computational processes,2116,2
+dynamic control,2116,1
+metacomputational media,2116,1
+prior change,2116,1
+real time,2116,1
+resources,2116,3
+scalable resources,2116,1
+scalableness,2116,1
+software applications,2116,1
+static scaling,2116,1
+vector criterion,2116,1
+centroid,358,3
+centroid method,358,1
+correlation coefficient,358,2
+fuzzy sets,358,6
+intuitionistic,358,6
+intuitionistic fuzzy sets,358,6
+columbia university,241,2
+columbia university online books,241,1
+learning,241,1
+librarians,241,3
+marketplace arrangements,241,1
+online,241,9
+online books,241,9
+online books evaluation project,241,2
+owning,241,1
+potential,241,4
+print,241,2
+publishers,241,1
+scholarly online books,241,2
+teaching,241,1
+calibration system,245,1
+classification,245,1
+comprehensive model,245,1
+error,245,7
+error pattern,245,1
+machine tool thermal error prediction,245,1
+machine tools,245,2
+operating conditions,245,3
+periodic calibration,245,1
+support vector machines,245,2
+temperature states,245,1
+temperature variation,245,1
+thermal error,245,3
+thermal errors,245,1
+vector machines model,245,1
+cmc,279,2
+communication opportunities,279,1
+computer,279,2
+computer mediated communication,279,2
+data collection procedure,279,1
+faculty members,279,1
+increased,279,1
+instructors,279,4
+international students,279,3
+language skills,279,1
+learning,279,3
+learning methods,279,1
+learning tool,279,1
+mediated communication,279,2
+peers,279,1
+qualitative,279,1
+quantitative data,279,1
+questioning,279,1
+strong consensus,279,1
+students,279,6
+teaching,279,3
+university international students,279,1
+absolute,1974,1
+codec's performance,1974,1
+coding process,1974,1
+dsp chip,1974,2
+dsp solution,1974,1
+error bits,1974,2
+hardware implementation,1974,1
+hierarchical trees,1974,1
+high memory requirement,1974,1
+implementation,1974,5
+memory cost,1974,1
+optimization,1974,1
+program structure,1974,1
+simplicity,1974,1
+spiht algorithm,1974,2
+wavelet decomposition,1974,1
+wavelet transform,1974,1
+zerotree,1974,2
+zerotree quantization,1974,1
+autotuning,36,1
+barrel temperature control,36,2
+control,36,10
+desired specifications,36,1
+extruders,36,1
+model predictive control,36,2
+model predictive control helps,36,1
+multiple parameter pid,36,1
+performance,36,3
+proportional plus integral plus,36,1
+slow temperature control,36,1
+strict,36,1
+tight temperature control,36,1
+utilizes techniques,36,1
+attrition rates,2108,1
+data screening,2108,1
+demographic,2108,1
+internet in samples exposed,2108,1
+longitudinal aspect,2108,1
+longitudinal survey research,2108,2
+online longitudinal survey research,2108,1
+participation,2108,2
+psychological adjustment,2108,1
+questionnaire,2108,2
+repeated measures,2108,1
+sample,2108,2
+scores,2108,1
+similarity,2108,1
+survey research online,2108,1
+trauma,2108,2
+viability,2108,2
+action,2105,10
+age,2105,1
+antiauthoritarian ideology,2105,1
+collective,2105,8
+collective action,2105,7
+computer,2105,1
+confrontational,2105,1
+internalized group memberships,2105,1
+internet,2105,5
+internet,2105,5
+internet transforms collective action,2105,1
+mass communication,2105,2
+nature,2105,2
+nonactivists,2105,2
+offline action,2105,1
+online action,2105,1
+online mobilization,2105,1
+online survey,2105,1
+social identities,2105,1
+social movements,2105,1
+electronic exchange,2180,1
+hdml,2180,4
+health checkup facilities,2180,1
+health status assessment,2180,1
+health checkup facilities,2180,1
+health/medical data interchange model,2180,1
+involving data exchange,2180,1
+laboratory data exchange,2180,1
+numerical lab data,2180,1
+qualitative,2180,1
+sgml,2180,2
+sgml,2180,2
+standard generalized markup language,2180,1
+summary,2180,1
+textual data,2180,1
+disclosure,2170,1
+electronic,2170,1
+legal team,2170,1
+litigation support systems,2170,2
+printing,2170,1
+scanning,2170,1
+bitstream,1980,2
+coding process,1980,1
+datasets,1980,1
+decomposition depth,1980,1
+diagnostic relevance,1980,1
+disjoint segments,1980,1
+embedded zerotree coding,1980,1
+enabling,1980,1
+extra coefficients,1980,1
+extra information,1980,1
+facilitates,1980,1
+head magnetic resonance images,1980,1
+lifting steps scheme,1980,1
+lossless coding,1980,1
+mlzc,1980,3
+mlzc mode,1980,1
+multidimensional layered zero coding,1980,1
+rate allocation,1980,1
+region of interest,1980,1
+volumetric data,1980,1
+case law,296,1
+legal reference,296,2
+librarians,296,1
+regulations,296,1
+web,296,3
+web sites,296,2
+academia,325,1
+commercial,325,7
+courseware,325,3
+ethics,325,1
+faculty,325,1
+fierce commercial competition,325,1
+guiding assumptions,325,1
+higher education,325,2
+learning management systems,325,1
+lmss,325,1
+noncommercial,325,3
+open,325,2
+pedagogy,325,1
+products,325,3
+provide students,325,1
+remain noncommercial,325,1
+shared knowledge,325,1
+united states,325,1
+web courseware management systems,325,1
+adaptive control,31,5
+adaptive control methodology,31,1
+adaptive control methods,31,2
+adaptive controller,31,1
+adaptive neural/fuzzy control,31,1
+direct adaptive control methods,31,1
+interpolated nonlinear systems,31,1
+jet engine control problem,31,1
+nonlinear subsystems,31,1
+nonlinear systems,31,2
+online approximators,31,1
+radial basis function neural networks,31,1
+spatially localized models,31,1
+tracking error,31,1
+compensating uncertainty,2187,1
+discrete time systems,2187,1
+intelligent control,2187,2
+linear observer,2187,1
+neural network,2187,2
+parameter,2187,1
+pm synchronous motor,2187,1
+pm synchronous servo motor drive,2187,1
+pmsm,2187,1
+state estimation,2187,1
+variable structure control,2187,1
+variable structure intelligent control,2187,1
+vsc,2187,2
+vsc scheme,2187,1
+12 db,2090,1
+extinction ratio higher,2090,1
+feedback configuration,2090,1
+logic nor gate,2090,2
+nonlinearity,2090,1
+semiconductor optical,2090,2
+acquiring,2059,2
+collection development,2059,1
+history,2059,2
+medicine,2059,2
+policy formation,2059,1
+rare materials,2059,1
+reference tools,2059,1
+science,2059,2
+technology,2059,2
+900 mhz,2043,1
+algorithmic complexity,2043,1
+arithmetic operations,2043,1
+arithmetic processors,2043,1
+athlon,2043,1
+computational electromagnetics,2043,2
+computational electromagnetics codes,2043,1
+computer architecture,2043,1
+dense matrices,2043,1
+fdtd,2043,1
+high data,2043,1
+hp,2043,1
+imposed,2043,1
+innermost loops,2043,1
+iterative solvers,2043,1
+lu factorizations,2043,1
+memory chips,2043,1
+performance,2043,1
+reference platforms,2043,1
+underlying computer hardware,2043,1
+accurate,395,1
+arbitrary thickness,395,1
+coaxial couplers,395,2
+coaxial waveguides,395,1
+complex cross section,395,2
+computational cost,395,1
+couplers,395,4
+external shields,395,1
+inner conductors,395,2
+metallic diaphragms,395,1
+nonsymmetrical couplers,395,1
+numerical conformal mapping,395,1
+polygonal inner conductors,395,1
+slotted coaxial cables,395,1
+symmetrical coaxial couplers,395,1
+archival,263,4
+archival materials,263,2
+archival practice,263,1
+archival web sites,263,1
+digital access,263,2
+digital access to,263,2
+electronic,263,2
+historiographical,263,1
+national archives,263,1
+nonelectronic projects,263,1
+pedagogical,263,1
+primary source,263,1
+records,263,2
+records administration,263,1
+student learning,263,1
+automatic updates,346,1
+baseball,346,4
+berkeley,346,1
+california,346,1
+division,346,2
+games,346,2
+magic,346,1
+minimum,346,1
+optimization,346,3
+optimization techniques,346,1
+watched,346,1
+wildcard teams,346,1
+world wide web,346,1
+2/sup,272,1
+chemicals directory,272,1
+database compounds,272,1
+descriptor evaluation,272,1
+employs arrays,272,1
+entropy formulation,272,1
+genetic algorithm,272,1
+large compound collections,272,1
+large compound pools,272,3
+median partitioning,272,2
+molecular descriptors,272,1
+n/ partitions,272,1
+pairwise comparison,272,1
+population,272,2
+property descriptors,272,1
+representative subsets,272,1
+subpopulations,272,1
+termed,272,1
+available,308,2
+button,308,1
+content,308,2
+database connectivity,308,1
+evaluating,308,1
+freely,308,2
+homework/quiz/exam applet,308,2
+java program,308,1
+java software,308,1
+pedagogical,308,1
+programming knowledge,308,1
+student,308,3
+student performance,308,1
+student scores,308,1
+teacher,308,2
+typing,308,1
+amazon,194,1
+com,194,3
+demand,194,1
+developed ordering criteria,194,1
+interlibrary loan unit proposed,194,1
+monograph loans,194,1
+pilot project,194,2
+project statistics,194,1
+purdue university libraries,194,1
+staff perceptions,194,1
+statistics,194,2
+conventional,402,2
+conventional pfd operates,402,1
+designing,402,1
+faster,402,1
+frequency acquisition,402,2
+active development,310,1
+active learning,310,1
+advanced classes,310,1
+animated diagrams,310,1
+demonstrations,310,2
+discipline,310,1
+dynamic elements,310,1
+epsych,310,3
+experiments,310,2
+guidebooks,310,1
+interactive,310,2
+interactive demonstrations,310,1
+introductory classes,310,1
+orientations,310,1
+phenomena,310,1
+problems,310,1
+psychology,310,2
+puzzles,310,1
+rapid,310,1
+video clips,310,1
+web site,310,1
+standard,38,5
+confusing information,38,1
+instrument symbols,38,1
+instrumentation,38,1
+interconnection,38,1
+isa dictionary definition,38,1
+isa standard,38,1
+pid standard,38,1
+poses,38,1
+principal document,38,1
+fourth generation,2146,1
+generation,2146,2
+mainframe era,2146,1
+trustworthy,2146,2
+whatever,2146,1
+business,2146,2
+business risk management,2146,1
+computer,2146,7
+computer professionals,2146,1
+computer system,2146,3
+computer system security evaluation,2146,1
+education,2146,1
+explosion,2146,1
+industry,2146,3
+industry abandoned,2146,1
+information systems management,2146,1
+international bases,2146,1
+international standards,2146,1
+microcomputer,2146,1
+minicomputer systems,2146,1
+multics,2146,1
+national and,2146,1
+network security,2146,1
+networked information systems,2146,1
+personal computer,2146,1
+safe,2146,1
+search,2146,1
+secure operation,2146,1
+security requirements,2146,1
+shared mainframe,2146,1
+trusted,2146,3
+trustworthy,2146,2
+citation index usage,317,1
+cultural,317,2
+cultural interests,317,1
+digital democracy,317,4
+digital ochlocracy,317,1
+dominant method,317,1
+internet,317,6
+internet query statistics,317,1
+internet search systems,317,2
+internet users,317,2
+linear programming,317,1
+query,317,3
+search results,317,1
+unavoidable shortcoming,317,1
+user,317,3
+web documents,317,1
+economy,338,1
+continuity,1986,1
+control center,1986,7
+control center infrastructure,1986,2
+control center infrastructures,1986,1
+design of,1986,1
+electric service,1986,2
+energy management system,1986,1
+energy market,1986,1
+liberalized,1986,1
+market rules,1986,1
+quality,1986,1
+reliability,1986,1
+security,1986,3
+security control,1986,1
+uncertainties,1986,1
+utility business,1986,1
+achieves higher computational speeds,339,1
+atmospheric administration,339,1
+automated parallel image registration technique,339,1
+automatic integration,339,1
+basic,339,1
+beowulf cluster,339,1
+comparable accuracies,339,1
+cray t3e,339,1
+digital data,339,1
+endeavors,339,1
+fast,339,1
+increasing importance,339,1
+landsat thematic mapper,339,1
+massively,339,1
+maxima,339,1
+multiplatform remote sensing missions,339,1
+multiresolution nature,339,1
+national oceanic,339,1
+pentium workstations,339,1
+simd,339,1
+wavelet coefficients,339,1
+wavelet decomposition,339,1
+wavelet features,339,2
+engineering systems,35,1
+fault,35,9
+fault components,35,1
+fault detection mechanism,35,2
+fault diagnosis,35,4
+fault diagnosis application,35,1
+floating disc experimental setup,35,1
+floating disc system,35,1
+genetic algorithms,35,2
+measured abnormal,35,1
+mechatronic systems,35,1
+modeling,35,2
+predicted,35,1
+qualitative bond graph,35,3
+qualitative bond graph provides,35,1
+qualitative bond graphs,35,1
+qualitative equations,35,2
+system behavior,35,1
+unified approach,35,1
+algorithm,362,7
+database since,362,1
+database systems,362,1
+disk accesses,362,2
+disk accesses excluding,362,1
+index structure,362,1
+indexes,362,1
+insertions,362,1
+parameter values,362,1
+performance enhancement effect,362,1
+performance evaluation,362,2
+performance tendency,362,1
+relocation process,362,2
+simulation,362,1
+unavoidable preprocessing step,362,1
+abb,2152,2
+abb easier,2152,1
+business,2152,2
+cad system,2152,1
+customers,2152,1
+distributed engineering,2152,1
+engineering collaboration,2152,1
+global manufacturing companies,2152,1
+global operations,2152,1
+latin america,2152,1
+sales force,2152,1
+virtual engineering office,2152,1
+biomagnetic recordings,386,2
+cardiac interference,386,2
+fetal,386,3
+fetal biomagnetic recordings,386,2
+fetal cardiac complexes,386,1
+interference,386,4
+interference template,386,1
+matched filter,386,1
+maternal,386,2
+maternal cardiac interference,386,1
+mfs,386,1
+noise,386,3
+noise,386,3
+overlap,386,1
+raw signal,386,1
+removes,386,1
+signal processing,386,1
+signal space projection,386,1
+signal subspace,386,1
+spatial filtering,386,1
+ssp,386,2
+template generation,386,1
+template scaling,386,1
+characterize,2010,1
+consequently,2010,1
+constant,2010,1
+distribution ensures,2010,1
+dynamic magnetic resonance,2010,1
+dynamic mr,2010,1
+image material,2010,2
+labelled images,2010,1
+location accuracy,2010,1
+morphological scale spaces,2010,2
+neural net classifier developed,2010,1
+noise level,2010,1
+optimal sampling,2010,1
+overall error rate,2010,1
+paramagnetic tracer,2010,1
+prior class distribution,2010,2
+prior distribution,2010,2
+scales,2010,2
+scales depends,2010,1
+segmentation,2010,6
+segmentation results,2010,1
+spatial features,2010,1
+spatial properties,2010,1
+uncertainty,2010,1
+variance,2010,1
+accelerated simulation,1933,2
+numerical examples,1933,1
+simulation method,1933,1
+human factor,2135,1
+recognition,2135,1
+structural identification,2135,4
+dynamic programming,2045,2
+managerial decision,2045,1
+operations research,2045,1
+solitaire board game,2045,1
+alters,2147,1
+compressed graphic images,2147,1
+executable code,2147,1
+jpeg files,2147,3
+jpeg image files,2147,1
+modifies,2147,1
+via affected,2147,1
+virus affects,2147,1
+virus feature,2147,1
+compressible ion exchanger,2040,1
+exchanger compression,2040,1
+inverse problems,2040,2
+ion,2040,7
+ion exchange,2040,5
+mathematical model,2040,2
+numerical experiment,2040,1
+numerical solution methods,2040,1
+process,2040,1
+solvability,2040,1
+unique,2040,1
+computing precise estimates,2027,1
+dynamic motion analysis,2027,1
+dynamic programming,2027,2
+dynamic programming applied,2027,1
+heuristic modification,2027,1
+matching optimization problem,2027,1
+modified,2027,1
+motion vector field,2027,1
+movie images demonstrate,2027,1
+moving objects,2027,1
+multiple dynamic images,2027,1
+real,2027,1
+background,369,1
+corporation,369,1
+geographic considerations,369,1
+global internet on,369,1
+greedy opportunist,369,1
+locked,369,1
+motor,369,1
+nissan,369,5
+nissan v,369,1
+trademark,369,4
+trademark law,369,1
+uzi nissan,369,1
+adaptation methods,2132,2
+estimating,2132,1
+event graph model,2132,1
+reliability estimation,2132,1
+reliability requirements,2132,1
+software failures,2132,1
+applications,268,1
+complex molecules,268,1
+conformational space,268,3
+conformational spaces,268,1
+coordinates,268,3
+correlation,268,4
+correlation matrix,268,1
+correlations analysis,268,1
+matrix,268,2
+molecular conformations,268,1
+molecular coordinate,268,1
+multidimensional structural characteristics,268,1
+multiple correlations,268,1
+protein folding trajectories,268,1
+brazilian stock,1965,1
+dynamical properties,1965,1
+empirical,1965,1
+high uncertainties,1965,1
+invariant measures,1965,1
+market dynamics,1965,1
+observed statistical quantities,1965,1
+poincare return,1965,1
+recurrent properties,1965,1
+return fluctuations,1965,1
+statistical observations,1965,1
+stock market returns,1965,1
+computing,367,1
+human,367,2
+human intelligence,367,1
+information processing,367,1
+intellectual activity,367,1
+language processing,367,1
+linguistic activities,367,1
+meaning processing,367,1
+processing,367,8
+processing information,367,2
+retrieve,367,1
+simulation,367,1
+travel consultation system,367,1
+adaptive algorithms,246,1
+algorithms,246,2
+critical section,246,1
+efficient,246,1
+mutual exclusion,246,2
+only read,246,1
+operations,246,1
+performance,246,2
+performance measures,246,1
+presents,246,1
+remote step complexity,246,2
+space complexity,246,2
+system response,246,2
+system response time,246,2
+1999,347,1
+airlines,347,1
+business situations,347,1
+consulting,347,1
+installing,347,1
+nonairline industries,347,1
+oas,347,3
+oas supported,347,1
+opportunity analysis study,347,1
+or/ms,347,1
+over 170 revenue management,347,1
+revenue management,347,3
+revenue management concepts,347,1
+rm,347,6
+rm systems,347,2
+software development practices,347,1
+software systems,347,1
+camera viewpoint,203,2
+camera viewpoints,203,1
+editing,203,4
+extending operations,203,1
+image editing,203,2
+image painting,203,1
+image propagate,203,1
+incomplete set,203,1
+interactive image editing operations,203,1
+key element,203,1
+morphing,203,1
+multiple images,203,1
+physical 3d,203,1
+plenoptic,203,3
+plenoptic function,203,2
+scissoring,203,1
+volumetric decomposition technique,203,1
+023601,1968,1
+coherent field,1968,2
+combined field,1968,1
+field,1968,5
+fluorescent systems,1968,1
+photon statistics,1968,1
+quadrature components,1968,1
+quantum field,1968,1
+relative phase,1968,1
+squeezing properties,1968,1
+cctv system,225,3
+cctv systems,225,1
+clientele,225,1
+consultants,225,1
+installing,225,1
+integrators,225,1
+lodging establishments,225,1
+observing,225,1
+operating strategies,225,1
+overall hotel security plan,225,1
+professionals designing,225,1
+security,225,4
+security standards,225,1
+site management,225,1
+staff interactions,225,1
+1981,304,1
+classroom instruction,304,1
+database,304,5
+educators,304,1
+information related,304,1
+kanji,304,9
+microsoft excel,304,1
+organize,304,1
+print,304,1
+pronunciation,304,1
+research concerning,304,1
+researchers,304,1
+specifications,304,1
+web,304,2
+windows,304,1
+averaged models,410,1
+averaged simulations,410,1
+boost,410,1
+damping effects,410,1
+dc transfer function,410,1
+lossy spice models,410,1
+model,410,3
+ohmic losses,410,1
+perfect elements,410,1
+switch waveforms analysis,410,1
+bar,2093,1
+centralized database accurately,2093,1
+food processing,2093,1
+labels,2093,1
+tracks,2093,1
+wireless terminals linked,2093,1
+improved viewing resolution,2022,1
+real images,2022,1
+community members,2106,1
+deception,2106,5
+deviance,2106,1
+df admitted,2106,1
+events,2106,1
+group processes,2106,1
+identity,2106,6
+identity deception,2106,3
+identity play,2106,1
+internet,2106,2
+invaluable,2106,1
+media,2106,1
+norm violation,2106,1
+online community,2106,1
+perpetration,2106,2
+psychiatric illness,2106,1
+revealed identity deception,2106,1
+social identity,2106,1
+threatening,2106,1
+virtual communities,2106,1
+ambiguity functions,377,2
+avoids loops,377,1
+matlab,377,3
+matlab code,377,2
+pedagogical tool,377,1
+plotting,377,2
+program,377,2
+pulse compression,377,1
+radar courses,377,1
+radar signals,377,1
+sparse matrix operations,377,1
+criterion,365,1
+federal maritime,365,1
+hamburg,365,1
+hydrodynamic models,365,1
+hydrography agency,365,1
+kohonen networks,365,1
+learning examples,365,1
+learning procedure,365,2
+learning vectors,365,1
+nearest neighbor model,365,1
+network types,365,1
+neural models,365,1
+oceanographic,365,1
+persistence model,365,1
+statistical model,365,1
+unsupervised learning procedure,365,1
+verbal forecasts,365,1
+activation time map,388,1
+applied regularization procedure,388,1
+catheter laboratory,388,1
+computational performance,388,1
+ecg,388,3
+ecg mapping data,388,2
+individual optimal regularization parameter,388,1
+inverse algorithm,388,1
+iteration steps,388,1
+iterative algorithm solving,388,1
+mapping,388,3
+mathematical tools,388,1
+myocardial activation time imaging,388,1
+noninvasive,388,1
+nonlinear problem,388,2
+nonlinear problem formulation,388,1
+numerical,388,1
+regularization,388,4
+regularized linear problems,388,1
+simulated,388,1
+surface,388,1
+archivists,258,1
+building,258,1
+current strategies,258,1
+digital,258,4
+digital collections,258,2
+digital resource development,258,1
+encoding,258,1
+history,258,1
+interface design,258,1
+interpreters,258,1
+oac,258,2
+online archive of california,258,1
+professional standards,258,1
+reliance,258,1
+usability,258,1
+user,258,3
+user defined,258,1
+user tools,258,1
+virtual collections,258,1
+abb,2150,2
+building infrastructure,2150,1
+closely tracking,2150,1
+communication technology,2150,1
+consolidation,2150,1
+data storage,2150,1
+data technology,2150,1
+glittering,2150,1
+power supply,2150,1
+racked equipment,2150,1
+redundant air conditioning,2150,1
+security system,2150,1
+telecommunication,2150,1
+archival,261,2
+archivists,261,6
+archivists need,261,1
+closing,261,1
+coordinating efforts,261,1
+critical fronts,261,1
+cultural changes,261,1
+deposit agreements,261,1
+enmeshed,261,1
+implementing,261,1
+institutional,261,1
+internal dynamics,261,1
+labor,261,9
+labor archival programs,261,2
+labor archivists,261,4
+labor unions,261,1
+local union offices,261,1
+message,261,1
+obsolete,261,1
+outreach programs,261,1
+pilgrim,261,1
+politics inherent,261,1
+rank,261,1
+rejuvenation,261,1
+reorganization,261,1
+union,261,14
+union bureaucracies,261,1
+union bureaucracy,261,1
+union outreach,261,1
+unions,261,6
+attacker,1991,2
+autoregressive,1991,1
+compute,1991,1
+data,1991,6
+data hider,1991,2
+data hiding,1991,1
+distortion constraints,1991,1
+distortion measures,1991,1
+fundamental capacity limits,1991,1
+geometric attacks,1991,1
+image sources,1991,2
+image watermarking,1991,2
+images,1991,1
+invariant,1991,1
+statistical model,1991,2
+wavelet statistical models,1991,1
+attenuation effect,382,1
+experimental implementation,382,1
+experimental results,382,1
+external disturbances,382,1
+feedback component,382,3
+friction force,382,4
+linear brushless,382,2
+linear brushless dc motors,382,1
+linear motors,382,1
+lubrication,382,1
+motion control,382,1
+nonlinear friction force,382,1
+payload variation,382,1
+position tracking,382,1
+robust wavelet neuro control,382,1
+stability robustness,382,1
+state feedback controller,382,1
+wavelet basis function network learning controller,382,1
+wavelet neural controller,382,1
+wavelet neural network,382,3
+wavelet neural networks,382,2
+480 resolution,305,1
+achieved,305,1
+combining,305,1
+register reprogramming,305,1
+registers,305,2
+registers reprogramming,305,1
+ultrafast display,305,1
+vesa routine calling,305,1
+vesa routines,305,1
+academic libraries,2056,2
+academic science librarians,2056,1
+acceptance,2056,2
+altruistic nature,2056,1
+direct purchases,2056,1
+donations willingly,2056,1
+investment,2056,1
+librarians,2056,3
+libraries,2056,3
+library budget,2056,1
+library collections,2056,1
+monetary,2056,1
+processing space,2056,1
+professional,2056,1
+public notions,2056,1
+social relationships,2056,1
+staff,2056,1
+universities,2056,1
+decision making,2185,1
+dynamic modelling,2185,2
+enterprise modelling frameworks,2185,1
+gem,2185,4
+gem must,2185,1
+general enterprise model,2185,2
+manufacturing companies,2185,1
+methodology,2185,1
+nondynamic,2185,1
+public sector organisations,2185,1
+search,2185,2
+simple case,2185,1
+unlimited,2185,1
+computational complexity,32,1
+decomposition theorem,32,1
+degenerate linguistic case,32,1
+efficient implementation,32,1
+extension principle,32,2
+fuzzy arithmetic,32,1
+fuzzy numbers,32,1
+huge,32,1
+iris data set,32,1
+linguistic vector,32,1
+membership update equation,32,1
+optimization,32,1
+synthetic data sets,32,1
+adaptivity,381,1
+hardware measurements,381,1
+intel 80196kc,381,1
+microcontroller,381,1
+output,381,1
+pv,381,1
+robust fuzzy controlled photovoltaic,381,2
+robust fuzzy controlled photovoltaic power inverter,381,1
+robust fuzzy controller,381,1
+robustness,381,2
+scaling factors,381,2
+simulation results,381,1
+system robustness,381,1
+taguchi method,381,1
+taguchi tuned scaling factors,381,1
+transient response,381,1
+wide load,381,1
+adaptive digital watermarking scheme,2032,1
+adaptive digital watermarking using,2032,1
+copyright,2032,1
+digital society,2032,1
+digital watermarking,2032,3
+fuzzy logic,2032,3
+fuzzy logic technique,2032,2
+fuzzy logic techniques,2032,1
+imperceptible watermark,2032,1
+watermark,2032,5
+chountasis,356,1
+continuous variables,356,1
+gaussian noise,356,1
+probability distribution,356,4
+probability distributions,356,2
+quantum communication,356,3
+quantum communication channels,356,1
+quantum information processing systems,356,1
+quantum mechanical systems,356,1
+quantum teleportation,356,1
+useful tools,356,1
+administrative,342,1
+allocate,342,2
+allocates operating room,342,1
+hospital,342,3
+integer programming,342,1
+operating room time,342,2
+surgical,342,2
+auxiliary planes,2124,1
+coordinate axes,2124,1
+discrete variant,2124,1
+its geometry,2124,1
+kharitonov theorem,2124,1
+linear discrete systems,2124,2
+multidimensional stability domain,2124,1
+stable polynomials,2124,1
+electronic delivery,2169,1
+modernisation,2169,1
+public services,2169,1
+transformation,2169,1
+adaptive filters,1979,1
+any pixel,1979,1
+approximation images,1979,1
+combining spatial,1979,1
+computer generated noisy images,1979,1
+detecting,1979,1
+dynamic range compression,1979,1
+edge,1979,11
+edge connectivity,1979,1
+edge detection,1979,1
+edge distortion,1979,1
+edges,1979,3
+filters,1979,2
+final edge probability image,1979,1
+frequency domain,1979,1
+geometrical characteristics,1979,1
+gradient amplitudes,1979,1
+gradient phases,1979,1
+image noise,1979,1
+image using spatial,1979,1
+matched,1979,1
+pixel similarity,1979,1
+probabilistic formulation,1979,1
+probabilities,1979,1
+probability factor,1979,1
+same wavelet,1979,1
+spatial domain filtering,1979,1
+wavelet based noise suppression algorithms,1979,1
+wavelet correlation,1979,1
+wavelet detail,1979,1
+wider range,1979,1
+analogous problem,2128,1
+general control system,2128,1
+illustrative example,2128,1
+linearization,2128,1
+local approximation,2128,1
+optimal control algorithm,2128,1
+reachability set,2128,2
+reachability set approximation,2128,1
+regularization,2128,1
+relaxation,2128,1
+sequential refinement method,2128,1
+terminal,2128,1
+variational system,2128,1
+allows,2172,1
+business,2172,1
+consultation,2172,1
+data between,2172,2
+electronic data exchange,2172,2
+electronic data exchange standard,2172,1
+electronic transfer,2172,1
+exchange,2172,3
+hm land registry,2172,1
+pisces,2172,1
+property industry,2172,2
+property information systems,2172,1
+real estate,2172,1
+seamless,2172,1
+software packages,2172,1
+software providers,2172,1
+systems,2172,2
+technology,2172,1
+transfer,2172,3
+unprecedented,2172,1
+communication,2104,2
+company,2104,2
+disidentification experienced,2104,1
+frustration,2104,1
+highlights,2104,1
+inappropriate fashion,2104,1
+integration,2104,1
+intranets,2104,2
+isolation,2104,2
+remote management,2104,1
+remote staff,2104,2
+content,413,1
+instructional,413,1
+instructors,413,1
+learning,413,4
+overall structure,413,1
+presentation elements,413,1
+treatment groups,413,1
+vertical spacing,413,1
+web materials,413,1
+white space in learning,413,1
+classical automata,27,3
+computing,27,8
+formal model,27,3
+fuzzy automata,27,5
+fuzzy automata whose inputs,27,1
+fuzzy subsets,27,1
+input alphabet,27,1
+input symbols,27,1
+uncertainty,27,1
+vagueness,27,1
+blades,2083,8
+centrifugal loads,2083,1
+computer aided,2083,1
+concurrent engineering approach,2083,1
+fdm,2083,3
+fdm machine,2083,2
+finite element analysis,2083,1
+fixed guide vanes,2083,1
+fused decomposition modelling,2083,1
+impulse turbine,2083,3
+impulse turbine blades,2083,2
+impulse turbine blades using,2083,1
+individual blades,2083,1
+machine capabilities,2083,1
+manufacture,2083,6
+rapid prototyping,2083,1
+solid modelling,2083,1
+turbine blades,2083,3
+wave energy power conversion,2083,2
+wave energy research,2083,1
+wert,2083,1
+conceptual decision support system,366,1
+cost benefit analysis,366,1
+crossing analysis tool,366,1
+crossing investments,366,2
+decision support system,366,3
+dot,366,1
+dss,366,2
+federal railroad administration,366,1
+fra,366,5
+fra officials,366,1
+infrastructure,366,1
+metropolitan planning organizations,366,1
+mpos,366,1
+presentation,366,1
+proposed,366,1
+rail,366,8
+rail grade,366,3
+state department of transportation,366,1
+boltzmann equation,1969,3
+chain rules,1969,1
+continuity,1969,1
+dispersion model,1969,4
+driving behavior,1969,1
+dynamic evolution,1969,1
+equilibrium assumption,1969,1
+finite section,1969,1
+individual velocity,1969,1
+interaction,1969,1
+modeling,1969,1
+motorcyclists,1969,1
+multilane domain,1969,2
+multiplying boltzmann equation,1969,1
+nonlinear poisson equation,1969,1
+researches,1969,1
+traffic dispersion model,1969,1
+traffic flow,1969,3
+variance equation,1969,1
+vehicular boltzmann equation,1969,1
+additive,2088,2
+configurations,2088,1
+deflection analysis,2088,1
+floating overhang,2088,2
+growing interest,2088,1
+input format,2088,1
+integrated additive,2088,1
+layered manufacturing process,2088,1
+machining,2088,6
+material removal process,2088,1
+numerical control machining,2088,1
+raw materials,2088,1
+recent development,2088,1
+stacking operations,2088,1
+subtractive shaping,2088,2
+subtractive shaping theory,2088,1
+support structure,2088,4
+support structure design,2088,1
+support structures,2088,1
+vaulted overhang,2088,1
+baseline data,315,1
+consumer choices,315,1
+consumer market for,315,1
+consumer model,315,1
+decision criteria,315,1
+demographics,315,1
+describe,315,2
+differentiation,315,1
+evolving,315,1
+information services,315,1
+internet,315,10
+internet on,315,2
+internet services,315,1
+libraries,315,3
+library,315,8
+longitudinal,315,1
+market segments,315,2
+national random digit dialing telephone,315,1
+nonuse,315,2
+planning,315,1
+policy,315,1
+provider,315,1
+provides,315,1
+public libraries,315,1
+public library,315,5
+public library and/or,315,1
+public library use,315,1
+services,315,3
+survey collected,315,1
+usage choices,315,2
+floor plan,2044,1
+geometrical optics,2044,2
+go 3d,2044,2
+images,2044,1
+indoor environment using,2044,1
+indoor propagation,2044,1
+long corridor,2044,1
+preset,2044,1
+reflections,2044,1
+transmitter,2044,2
+wall construction,2044,1
+added specularities,1995,1
+affecting,1995,1
+camera characterization,1995,1
+color,1995,7
+computational color,1995,2
+computational color constancy,1995,2
+constancy,1995,4
+constancy algorithms,1995,1
+estimates,1995,1
+finlayson et,1995,2
+illumination invariant,1995,1
+implementations,1995,1
+limiting case,1995,1
+overall magnitude,1995,1
+reflectance spectra,1995,1
+retinex method,1995,1
+scene illuminant,1995,1
+subsequent,1995,1
+synthesized data,1995,3
+testing,1995,1
+acquiring,193,2
+changing practices,193,1
+damaged copies,193,1
+identify,193,1
+missing copies,193,1
+strong collections,193,1
+weak collections,193,1
+arbitrary permutation,2133,1
+conflictless realization,2133,1
+data blocks,2133,2
+high efficiency,2133,1
+hypercubes,2133,1
+multiring and hypercube,2133,1
+multirings,2133,1
+'black,23,1
+absorbing layer,23,1
+active absorbing,23,1
+active systems,23,1
+coating,23,3
+conceptual,23,1
+ensures,23,1
+fast time modulation,23,1
+incident wave,23,3
+incident waves,23,1
+incoming wave,23,1
+long waves,23,1
+mechanical models,23,1
+minimum,23,1
+parametric control,23,1
+simple acoustical,23,1
+spatial scale,23,1
+technological band,23,1
+thin layer,23,1
+waveguiding medium,23,1
+whose efficiency,23,1
+wide frequency interval,23,1
+anytime,299,1
+anywhere,299,2
+guided development,299,1
+illiad,299,3
+information,299,1
+interlibrary borrowing,299,1
+interlibrary loan department at,299,1
+library strategic system,299,2
+library strategic systems,299,1
+services heretofore,299,1
+virginia tech,299,3
+virginia tech faculty,299,1
+animat,368,1
+artificial intelligence approach,368,1
+associative domain,368,1
+automata,368,2
+autonomous behavior,368,1
+autonomous system,368,2
+biological,368,8
+biological model,368,4
+biological modeling,368,1
+biological properties,368,1
+computational model,368,2
+compute variables,368,1
+consistent model,368,1
+corresponding biological elements,368,1
+cortical framework,368,1
+distributed set,368,1
+elementary functions,368,1
+intelligent behavior,368,1
+internal drives,368,1
+learning rules,368,1
+network whose architecture,368,1
+perceptive,368,1
+regularities,368,1
+robot,368,2
+robust system,368,1
+calculus,1930,1
+case tools,1930,1
+design complex systems,1930,1
+formal system representation,1930,1
+formalized nfo/ufo analysis algorithm,1930,1
+systemological analysis coordinated,1930,1
+3d rotation changing,204,1
+active vision systems,204,1
+ambiguity,204,1
+calibration parameters,204,4
+camera calibration parameters,204,1
+component due,204,2
+consecutive images,204,1
+discrete motion,204,1
+estimating,204,1
+flow fields,204,1
+frames,204,2
+geometric analysis,204,1
+image derivatives,204,2
+image formation,204,1
+image frames,204,1
+image measurements,204,1
+image motion fields,204,1
+image sequences,204,1
+intrinsic,204,1
+investigates,204,1
+optical flow,204,1
+point correspondences,204,1
+projective transformation,204,1
+rigidly moving camera,204,1
+rotational component,204,3
+rotational components,204,2
+translational,204,2
+translational component,204,1
+unknown parameters,204,1
+video databases,204,1
+viewing geometry,204,1
+admissible measurement errors,1935,1
+apparatus,1935,1
+current,1935,1
+fuzzy information,1935,1
+fuzzy set theory,1935,1
+fuzzy values,1935,1
+identification,1935,2
+maximally admissible degree,1935,1
+attractor,1956,2
+attractor varies,1956,1
+bus,1956,6
+bus stops,1956,2
+bus stops without,1956,1
+dynamical behavior,1956,1
+dynamical transition,1956,2
+dynamical transitions,1956,1
+increasing,1956,1
+nonlinear map,1956,2
+periodic behaviors,1956,1
+periodic motions,1956,3
+periodic motions depend,1956,1
+recurrent bus,1956,4
+recurrent bus exhibits,1956,1
+recurrent bus induced,1956,1
+42 private sector applications,345,1
+competitive advantage,345,1
+edelman prize finalist,345,1
+information technology,345,1
+or/ms,345,8
+or/ms content,345,1
+or/ms work,345,3
+research/management science,345,1
+sis,345,2
+strategic,345,5
+strategic information systems,345,1
+strategic operations,345,1
+strategic or/ms,345,3
+clinical,2006,1
+computed tomography,2006,1
+ct images,2006,2
+image interpretation,2006,1
+lung extremities,2006,1
+lung metastasis detection,2006,2
+metastases,2006,2
+nodules,2006,1
+oncology department,2006,2
+radiologist,2006,1
+radiotherapist interpret,2006,1
+ribs,2006,1
+thorax,2006,2
+thorax contour,2006,1
+visualization on,2006,1
+assured,201,1
+correct formulae,201,1
+global,201,2
+local alignment,201,2
+panoramic image mosaics,201,2
+adaptive fuzzy control,2003,3
+adaptive fuzzy control procedure,2003,1
+availability,2003,1
+control algorithm,2003,1
+fuel cells,2003,2
+fuzzy control system,2003,1
+fuzzy system,2003,1
+mcfc stack,2003,5
+mcfc stack based,2003,1
+molten carbonate fuel cells,2003,1
+neural networks identification,2003,2
+neural networks model,2003,1
+nonlinear modeling,2003,1
+radial basis function neural networks identification model,2003,1
+rule,2003,1
+simulation,2003,1
+annotation,238,1
+browsing,238,1
+digital library interoperability,238,2
+effective,238,1
+interoperability,238,3
+interoperable digital libraries,238,1
+metadata,238,3
+metadata harvesting protocol,238,1
+mission,238,1
+oai,238,3
+open archives initiative,238,2
+philosophy,238,1
+realizing,238,1
+streaming,238,1
+technical framework,238,1
