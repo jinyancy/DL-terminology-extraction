@@ -3,7 +3,7 @@ Terminology extraction based on Bi-LSTM models and word embeddings.
 
 The file 'Terminology_extraction_BILSTM_Glove_INSPEC.ipynb' contains the code of the implementation of a model for terminology extraction based on bidirectional LSTM with variants. 
 The model is trained, tested and evaluated with INSPEC dataset, whoso documents are available in the folder 'Datasets/INSPEC'. 
-Glove embeedings are used as a vector representation of the words. These representations are directly downloaded from 'http://nlp.stanford.edu/data/glove.6B.zip'. The vocabulary created with INSPEC dataset and Glove word embeddings is saved in a pickle file in the folder 'Embeddings'. It might be also created the first time that the dataset is preprocessed.
+Glove embeedings are used as a vector representation of the words. These representations are directly downloaded from http://https://nlp.stanford.edu/projects/glove/. The vocabulary created with INSPEC dataset and Glove word embeddings is saved in a pickle file in the folder 'Embeddings'. It might be also created the first time that the dataset is preprocessed.
 The terminology extracted from INSPEC test dataset abd COVID-19 corpus is saved as a csv file in the folder 'Terminology'.
 
 The Colab Notebook allows to set different parameters:
